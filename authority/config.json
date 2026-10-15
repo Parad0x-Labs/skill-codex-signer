@@ -1,0 +1,7 @@
+{
+ "review": {
+  "model": "openai/gpt-4.1-mini",
+  "monthly_cap": 20.0,
+  "provider": "openrouter"
+ }
+}

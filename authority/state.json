@@ -1,0 +1,57 @@
+{
+ "authorized_until": 0,
+ "entries": [],
+ "epoch": 0,
+ "marks": {
+  "highlighted": [],
+  "sequence": 0,
+  "suspended": [],
+  "teams": {},
+  "tested": []
+ },
+ "released": [
+  {
+   "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+   "platform": "macos-arm64",
+   "version": "0.7.1-beta"
+  },
+  {
+   "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+   "platform": "macos-x86_64",
+   "version": "0.7.1-beta"
+  },
+  {
+   "commit": "ef99b3ea039cc8effb4e66b16a79e167608790f7",
+   "platform": "macos-arm64",
+   "version": "0.7.0-beta"
+  },
+  {
+   "commit": "ef99b3ea039cc8effb4e66b16a79e167608790f7",
+   "platform": "macos-x86_64",
+   "version": "0.7.0-beta"
+  }
+ ],
+ "revoked": [],
+ "targets": [
+  {
+   "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+   "platform": "macos-arm64",
+   "version": "0.7.1-beta"
+  },
+  {
+   "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+   "platform": "macos-x86_64",
+   "version": "0.7.1-beta"
+  },
+  {
+   "commit": "ef99b3ea039cc8effb4e66b16a79e167608790f7",
+   "platform": "macos-arm64",
+   "version": "0.7.0-beta"
+  },
+  {
+   "commit": "ef99b3ea039cc8effb4e66b16a79e167608790f7",
+   "platform": "macos-x86_64",
+   "version": "0.7.0-beta"
+  }
+ ]
+}
