@@ -1,5 +1,5 @@
 {
- "authorized_until": 0,
+ "authorized_until": 1793133450,
  "builds": [],
  "entries": [],
  "epoch": 3,
@@ -92,5 +92,6 @@
    "platform": "macos-x86_64",
    "version": "0.7.0-beta"
   }
- ]
+ ],
+ "unpublished": false
 }
