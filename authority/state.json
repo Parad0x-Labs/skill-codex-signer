@@ -1,7 +1,8 @@
 {
  "authorized_until": 0,
+ "builds": [],
  "entries": [],
- "epoch": 0,
+ "epoch": 1,
  "marks": {
   "highlighted": [],
   "sequence": 1,
@@ -13,8 +14,29 @@
   },
   "tested": []
  },
- "marks_unsent": true,
+ "moderation": {
+  "comments": [],
+  "counts": {
+   "comments": 0,
+   "paused": 0,
+   "pictures": 0,
+   "reports": 0
+  },
+  "pictures": [],
+  "reports": []
+ },
+ "rechecked": "2026-10-20",
  "released": [
+  {
+   "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+   "platform": "macos-arm64",
+   "version": "0.7.2-beta"
+  },
+  {
+   "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+   "platform": "macos-x86_64",
+   "version": "0.7.2-beta"
+  },
   {
    "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
    "platform": "macos-arm64",
@@ -36,8 +58,20 @@
    "version": "0.7.0-beta"
   }
  ],
+ "releases_checked": "2026-10-20",
+ "removed": [],
  "revoked": [],
  "targets": [
+  {
+   "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+   "platform": "macos-arm64",
+   "version": "0.7.2-beta"
+  },
+  {
+   "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+   "platform": "macos-x86_64",
+   "version": "0.7.2-beta"
+  },
   {
    "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
    "platform": "macos-arm64",
