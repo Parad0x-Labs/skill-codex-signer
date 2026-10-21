@@ -25,7 +25,7 @@
   "pictures": [],
   "reports": []
  },
- "rechecked": "2026-10-20",
+ "rechecked": "2026-10-21",
  "released": [
   {
    "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
@@ -58,7 +58,7 @@
    "version": "0.7.0-beta"
   }
  ],
- "releases_checked": "2026-10-20",
+ "releases_checked": "2026-10-21",
  "removed": [],
  "revoked": [],
  "targets": [
