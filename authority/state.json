@@ -1268,6 +1268,84 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "XFKXPITOOF2Wo6GHHo1Op/4TjK9OW1PJtUsOdN/8HGd+W6St4E1i9IgUZb9PQxkFE6hISSdMslvb1Bbe7EEyCA=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 9256,
+    "artifact_sha256": "b79dc4918ca557c70ddcf709523599a3f3bffafab9c9fc3f6cc16dab6638a050",
+    "dependencies": {},
+    "evidence_sha256": "7a5024aa5155aec93ea62b0206b6ccb9e8d958225edfd9fe8b11b8bc28c05e09",
+    "expires": 1795279005,
+    "issued_at": 1792690605,
+    "metadata": {
+     "category": "writing",
+     "id": "vool-team/cv-tailor",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "ae56f0b4fc1f62abe9f201c1622f4a78"
+     },
+     "subcategory": "cv-job-applications",
+     "summary": "Match your CV to a job post: what to highlight, what to reword and what is missing.",
+     "title": "CV tailor",
+     "version": "1.0.0"
+    },
+    "native_digest": "66d840649da21917df064a987ac509d76308325aa22e16cdbf3d8f178f9d9192",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-86452eb8778ef3a18c19fa5b",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "b79dc4918ca557c70ddcf709523599a3f3bffafab9c9fc3f6cc16dab6638a050",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-arm64",
+      "version": "0.7.1-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-x86_64",
+      "version": "0.7.1-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 4,
