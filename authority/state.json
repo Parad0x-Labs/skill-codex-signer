@@ -2215,6 +2215,84 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "9vY1BOShy6V6q81VfkScxnha2GXykw8mggH7YaxLxYSaoJT3drn6zo4aKcIZkgSFmSt942pboWtF6tSQS4clCg=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 7313,
+    "artifact_sha256": "21051b1ca353de3f9f0a6841bda0ad06e107f1502ffb7e9118addc0ec1adcc66",
+    "dependencies": {},
+    "evidence_sha256": "12c87b4add926d635066553b22aa41762af6950fd759161754e6789998853e5e",
+    "expires": 1795279196,
+    "issued_at": 1792690796,
+    "metadata": {
+     "category": "productivity",
+     "id": "vool-team/meeting-agenda",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "eccd0f142e54545677c4aa9bbd972d63"
+     },
+     "subcategory": "meetings",
+     "summary": "Build a timed meeting agenda from your goal, attendees and topics.",
+     "title": "Meeting agenda",
+     "version": "1.0.0"
+    },
+    "native_digest": "692eb0a37fd235f18dfd87b5f5ff69baa3ec892929c58a92c984e3854a30a1fd",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-7c45ef532a4679396d8c6121",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "21051b1ca353de3f9f0a6841bda0ad06e107f1502ffb7e9118addc0ec1adcc66",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-arm64",
+      "version": "0.7.1-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-x86_64",
+      "version": "0.7.1-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 5,
