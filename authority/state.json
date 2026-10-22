@@ -1742,6 +1742,84 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "azgDWNw2S+Fz1SGqW6j4QK+DkyzVXUYUDVDRjc6cx2nk/URgTAY2KplCkKBFR5E7FnS1mwY1zJ+Km/Q9MrvtAg=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 8158,
+    "artifact_sha256": "5fb3d6ebb6d446ce160e8d8d05c68b8b3c8d221d129e703471b26692d303a39a",
+    "dependencies": {},
+    "evidence_sha256": "d8db8051bfe63a12c7ec102454c328a8ce817ab54be3a8b2f7bcdb8401ea2b49",
+    "expires": 1795279169,
+    "issued_at": 1792690769,
+    "metadata": {
+     "category": "data-analysis",
+     "id": "vool-team/formula-helper",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "467ae647eaf613331f1d777e697baa5c"
+     },
+     "subcategory": "spreadsheets",
+     "summary": "Write or explain a spreadsheet formula for what you describe, with a worked check.",
+     "title": "Formula helper",
+     "version": "1.0.0"
+    },
+    "native_digest": "d17c9368dd575dc332860adbe4605592ac2e079b25f0cac10e5d6dcb6c262235",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-c7fcd5cc2c8381b1b048945a",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "5fb3d6ebb6d446ce160e8d8d05c68b8b3c8d221d129e703471b26692d303a39a",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-arm64",
+      "version": "0.7.1-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-x86_64",
+      "version": "0.7.1-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 5,
