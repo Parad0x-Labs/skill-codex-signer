@@ -2765,6 +2765,84 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "dOsI1uH59WRqDY0yz8RFYIfFdZHZiLPOi1aUkujTM4VeNuPnMk5BytTwWQQzB+IO49La25noyZRXnGxA20mICw=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 7711,
+    "artifact_sha256": "d7b1e99e28bcb61e4fcaa4a2f622eb9da2b091d4c630d6eae13345a7dec71843",
+    "dependencies": {},
+    "evidence_sha256": "2954b0978ea00cbcf95ba3bcd090a545b9cf1c60239ec73f8dc75ba9f32a56fc",
+    "expires": 1795279227,
+    "issued_at": 1792690827,
+    "metadata": {
+     "category": "writing",
+     "id": "vool-team/proofread-plain",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "cd8b16c1ac3750a5128c025f9b8f13f9"
+     },
+     "subcategory": "editing-proofreading",
+     "summary": "Fix spelling, grammar and unclear sentences in your text and list what changed.",
+     "title": "Proofread",
+     "version": "1.0.0"
+    },
+    "native_digest": "93853198c77513f76c6b13a9ed9dd755cd69b2b93f9aab1ae92c0444967e69be",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-1aacb94abecde6668610724c",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "d7b1e99e28bcb61e4fcaa4a2f622eb9da2b091d4c630d6eae13345a7dec71843",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-arm64",
+      "version": "0.7.1-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-x86_64",
+      "version": "0.7.1-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 5,
