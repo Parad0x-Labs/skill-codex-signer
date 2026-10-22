@@ -2371,6 +2371,84 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "pByfd5VMEk9kJ5J7sMDKUiVAIbMzxSXC74twqR0RKfBRiLuWeVeATr3MF5Vn2JcZDf6+yfPcxPgNan5zooaxDg=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 7131,
+    "artifact_sha256": "db849a997314178110ed08efd40709bbcdcbac13fca60cd95b34162d6370b33b",
+    "dependencies": {},
+    "evidence_sha256": "fe68b807e706a204fb226a8459d0cdf7e98fc49cf1d55134149b7b91ebd0a680",
+    "expires": 1795279205,
+    "issued_at": 1792690805,
+    "metadata": {
+     "category": "productivity",
+     "id": "vool-team/notes-to-actions",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "d392646ba27f09e0de9431aca94a425a"
+     },
+     "subcategory": "notes-summaries",
+     "summary": "Turn messy notes into a short summary and a clear list of next steps.",
+     "title": "Notes to actions",
+     "version": "1.0.0"
+    },
+    "native_digest": "dfa59bde4ef38ae08c3671aeaa87a9aa5c5a30e2c90bdd83e096b7e7177eb92b",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-212f512525ac41efc33ff57b",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "db849a997314178110ed08efd40709bbcdcbac13fca60cd95b34162d6370b33b",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-arm64",
+      "version": "0.7.1-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-x86_64",
+      "version": "0.7.1-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 5,
