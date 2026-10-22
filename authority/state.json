@@ -1662,6 +1662,86 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "yI/nx/UEh5NLQV4TVgO4HWxtjGoW+sKp1AAmaoNojHeTsQLftnlJfjckOHRNoq3uBjnWLrb9vWuOieYEvtdcAw=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 9431,
+    "artifact_sha256": "7ab65b24e308b611498b5438bcad85b234b0761000ce5adcdb7f48c53127e2e1",
+    "dependencies": {},
+    "evidence_sha256": "63be59fad781175365bd3c3fbea675bb9d30e698ebb16eb8d889cc3b11ef8627",
+    "expires": 1795279164,
+    "issued_at": 1792690764,
+    "metadata": {
+     "category": "personal-home",
+     "id": "vool-team/formal-request-letter",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "ae9b8ab05b7c4660c042eced735bcc4d"
+     },
+     "subcategory": "paperwork-admin",
+     "summary": "Write a clear, polite letter to a landlord, insurer, school or service asking for what you need.",
+     "title": "Formal request letter",
+     "version": "1.0.0"
+    },
+    "native_digest": "332bd46acc74ed8d819c056c6ae30d5589d416977e206c98598d8f0795d6f99d",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": [
+      "spending"
+     ]
+    },
+    "plugin_id": "registry-eeea3ca2b675ec19cbf94461",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "7ab65b24e308b611498b5438bcad85b234b0761000ce5adcdb7f48c53127e2e1",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-arm64",
+      "version": "0.7.1-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-x86_64",
+      "version": "0.7.1-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 5,
