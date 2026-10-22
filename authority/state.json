@@ -2605,6 +2605,86 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "t0ffZq5oIPJaxqA0ahclXuZ3YWLBEhm4uMLnb5Q7kkzKGKrCCsnxNQVHYpzsgKOpH2TbZPlVFbPPsJnvjdyNDw=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 8296,
+    "artifact_sha256": "8c2927e28c7c0ed0fa46224d29c7f91086568868849ddec1d5321ee38f4e6b4d",
+    "dependencies": {},
+    "evidence_sha256": "0c9aedd0afc5e1a8bf71afe6ce7f304bd833cabd8cefa82c61976f4894f9b23a",
+    "expires": 1795279219,
+    "issued_at": 1792690819,
+    "metadata": {
+     "category": "money-crypto",
+     "id": "vool-team/price-data-reader",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "5f20ad85b9a0ef2cf4008cef357c705e"
+     },
+     "subcategory": "market-data",
+     "summary": "Describe what the price figures you paste show, without predictions or advice.",
+     "title": "Price data reader",
+     "version": "1.0.0"
+    },
+    "native_digest": "dcd39e95633576f5e18cb8b394acdd177fd723a6df279502242cd16d8470a1cd",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": [
+      "currency"
+     ]
+    },
+    "plugin_id": "registry-52eb0cc3032d9d430f50e099",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "8c2927e28c7c0ed0fa46224d29c7f91086568868849ddec1d5321ee38f4e6b4d",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-arm64",
+      "version": "0.7.1-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-x86_64",
+      "version": "0.7.1-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 5,
