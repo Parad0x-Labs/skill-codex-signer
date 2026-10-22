@@ -636,6 +636,86 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "N+j/eLuzWEkoHLM74OB1G705rNEDW7lS0GxCElb7f5LvKwBxfDAbQyLkf3idT9l/+EBMk5BQ9euZT6FElWgwDQ=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 7873,
+    "artifact_sha256": "e6500c7ace46f53d2ad9cb037a30cf5f096aa1bbc14a7a4c356b3e9473de9470",
+    "dependencies": {},
+    "evidence_sha256": "2fa421bb0bb418950c0d47c8683a13c5647e2a4e45f7c7d920ae60aa3000d4eb",
+    "expires": 1795278973,
+    "issued_at": 1792690573,
+    "metadata": {
+     "category": "data-analysis",
+     "id": "vool-team/chart-picker",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "f6d51140ab39a82c74393a48f6b11231"
+     },
+     "subcategory": "charts",
+     "summary": "Suggest the clearest chart for your data and question, and how to label it.",
+     "title": "Chart picker",
+     "version": "1.0.0"
+    },
+    "native_digest": "0e974ccc2fe3c85375dbc8e63c95a164cfa6354f3a387650c69212d854726b56",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": [
+      "spending"
+     ]
+    },
+    "plugin_id": "registry-7110361e8cd6395fe7b13cb1",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "e6500c7ace46f53d2ad9cb037a30cf5f096aa1bbc14a7a4c356b3e9473de9470",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-arm64",
+      "version": "0.7.1-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-x86_64",
+      "version": "0.7.1-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 4,
