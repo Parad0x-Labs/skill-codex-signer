@@ -1820,6 +1820,86 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "Z4j5sfO05CJmfTs9d0JrcbTbQVCImjmu2IChbUx9nGkiWrf5RvJwmUKI0Pw+VWyn59rTGAE8FqYA9szIJtAPAQ=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 10648,
+    "artifact_sha256": "18426523e24609e2b766fe0f285f9caabc26db18484a985efddd3f9c531fb16f",
+    "dependencies": {},
+    "evidence_sha256": "f7924c25ea6903d3cf5ab0e20621900d762795b0f1ed5ee6e1d2883b8eb513ca",
+    "expires": 1795279174,
+    "issued_at": 1792690774,
+    "metadata": {
+     "category": "privacy-security",
+     "id": "vool-team/hacked-account-steps",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "e2a1d6c5e0df4d2cf689339e3cb2702f"
+     },
+     "subcategory": "account-safety",
+     "summary": "Calm, ordered steps to take back control after an account or password leak.",
+     "title": "Hacked account steps",
+     "version": "1.0.0"
+    },
+    "native_digest": "c5882c0364c10a0e378232081d9cc3c9d92c35625da66327560a611500460238",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": [
+      "spending"
+     ]
+    },
+    "plugin_id": "registry-b81fc2ae462a8afb211ffab5",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "18426523e24609e2b766fe0f285f9caabc26db18484a985efddd3f9c531fb16f",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-arm64",
+      "version": "0.7.1-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-x86_64",
+      "version": "0.7.1-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 5,
