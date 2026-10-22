@@ -25,9 +25,19 @@
   "pictures": [],
   "reports": []
  },
- "rechecked": "2026-10-21",
+ "rechecked": "2026-10-22",
  "released": [
   {
+   "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+   "platform": "macos-arm64",
+   "version": "0.7.3-beta"
+  },
+  {
+   "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+   "platform": "macos-x86_64",
+   "version": "0.7.3-beta"
+  },
+  {
    "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
    "platform": "macos-arm64",
    "version": "0.7.2-beta"
@@ -46,23 +56,23 @@
    "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
    "platform": "macos-x86_64",
    "version": "0.7.1-beta"
-  },
-  {
-   "commit": "ef99b3ea039cc8effb4e66b16a79e167608790f7",
-   "platform": "macos-arm64",
-   "version": "0.7.0-beta"
-  },
-  {
-   "commit": "ef99b3ea039cc8effb4e66b16a79e167608790f7",
-   "platform": "macos-x86_64",
-   "version": "0.7.0-beta"
   }
  ],
- "releases_checked": "2026-10-21",
+ "releases_checked": "2026-10-22",
  "removed": [],
  "revoked": [],
  "targets": [
   {
+   "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+   "platform": "macos-arm64",
+   "version": "0.7.3-beta"
+  },
+  {
+   "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+   "platform": "macos-x86_64",
+   "version": "0.7.3-beta"
+  },
+  {
    "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
    "platform": "macos-arm64",
    "version": "0.7.2-beta"
@@ -81,16 +91,6 @@
    "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
    "platform": "macos-x86_64",
    "version": "0.7.1-beta"
-  },
-  {
-   "commit": "ef99b3ea039cc8effb4e66b16a79e167608790f7",
-   "platform": "macos-arm64",
-   "version": "0.7.0-beta"
-  },
-  {
-   "commit": "ef99b3ea039cc8effb4e66b16a79e167608790f7",
-   "platform": "macos-x86_64",
-   "version": "0.7.0-beta"
   }
  ],
  "unpublished": false
