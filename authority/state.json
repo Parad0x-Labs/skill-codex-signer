@@ -161,6 +161,86 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "fosRCfh9Vul24RgES/IpMOJJKWCLjAJYiwiDbjA8o6fnoXJYDb5hl371SkhB0AEEkrQ7yKgYxKXdaA2haMeMDA=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 8655,
+    "artifact_sha256": "1f23e16df01e03643cd0c7694b9bdf7a9fe5b6266785b879a85224d9807f43f7",
+    "dependencies": {},
+    "evidence_sha256": "a9f459658eeff089d124bde58cd44c300d8f4430716e00c1371533b436e01a81",
+    "expires": 1795278946,
+    "issued_at": 1792690546,
+    "metadata": {
+     "category": "writing",
+     "id": "vool-team/blog-post-builder",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "93c656b0f1422444df2066f7dcef2b14"
+     },
+     "subcategory": "articles-blogs",
+     "summary": "Turn your points and notes into a structured blog post: outline first, then a full draft in your voice.",
+     "title": "Blog post builder",
+     "version": "1.0.0"
+    },
+    "native_digest": "f202c1bbc39dbeace8e8af18c9bbcc02a68b9f58f209c131774113211e91c7a4",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": [
+      "approval"
+     ]
+    },
+    "plugin_id": "registry-0fde7f45d2f07f1a2a1eb6b4",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "1f23e16df01e03643cd0c7694b9bdf7a9fe5b6266785b879a85224d9807f43f7",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-arm64",
+      "version": "0.7.1-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-x86_64",
+      "version": "0.7.1-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 4,
