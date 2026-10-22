@@ -950,6 +950,87 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "LNxtDQCPlnmjDyJ2KRBKCnsqKP7miHSbbxxmz0qaxRjaq9iKlNR52whkCOLOmEHOJBaJ3p+txloSem2baguRBg=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 8022,
+    "artifact_sha256": "f06ca8a6cc0bedbcda2bb289a8e96994093ad3ef0715055d2ab8a9c38f3662ce",
+    "dependencies": {},
+    "evidence_sha256": "379bc30840d54f01a636029742f6b9dd588bc22cf5b91e8ec03e8c7ed28f0d8b",
+    "expires": 1795278989,
+    "issued_at": 1792690589,
+    "metadata": {
+     "category": "automation",
+     "id": "vool-team/command-explainer",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "daa9325bab492b5e4d9a5f86b94b25b7"
+     },
+     "subcategory": "system-helpers",
+     "summary": "Explain what a terminal command you paste would do, and warn about risky parts.",
+     "title": "Command explainer",
+     "version": "1.0.0"
+    },
+    "native_digest": "1568619fd5e803b5628e79f957186558534fca0d679990312b8c2970dc40eb97",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": [
+      "approval",
+      "permissions"
+     ]
+    },
+    "plugin_id": "registry-a9312723f9c9ef82112dd069",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "f06ca8a6cc0bedbcda2bb289a8e96994093ad3ef0715055d2ab8a9c38f3662ce",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-arm64",
+      "version": "0.7.1-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-x86_64",
+      "version": "0.7.1-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 4,
