@@ -3949,6 +3949,84 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "PpRHeia0Db+EFNAQ5Fj8bY2bPq/d9kC/ArTfSAkRMeZ93r8zFHHG5pG3aLxtdqmNUyAUUay/UdHHFSFzMAYqCw=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 7420,
+    "artifact_sha256": "dd83b788802348ff8fb9ec41d37f49de80807aacbed26e56232f493a02752307",
+    "dependencies": {},
+    "evidence_sha256": "0dc61551e717fb6d0fa51eeb22d7f780f3631b4f717acfbd5c0d3499888d027e",
+    "expires": 1795279403,
+    "issued_at": 1792691003,
+    "metadata": {
+     "category": "writing",
+     "id": "vool-team/translate-keep-tone",
+     "kind": "skill",
+     "languages": [
+      "any"
+     ],
+     "license": "MIT",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "cc8bfb21c62a9eca3da205bac333f516"
+     },
+     "subcategory": "translation",
+     "summary": "Translate your text into another language while keeping its tone and meaning.",
+     "title": "Translate, keep the tone",
+     "version": "1.0.0"
+    },
+    "native_digest": "e3b005dc00abe1565e251f36ffeb26596572f377228b822107e836462df994e3",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-3794a07366a9e0ec806e6029",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "dd83b788802348ff8fb9ec41d37f49de80807aacbed26e56232f493a02752307",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-arm64",
+      "version": "0.7.1-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-x86_64",
+      "version": "0.7.1-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 6,
