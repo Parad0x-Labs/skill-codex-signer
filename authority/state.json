@@ -4027,6 +4027,84 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "ROYzJOp9Qt3Xi0jYJhodnlP2Xk+gXtQiaNqLZtciLod0cLOIzVyJPKIuQF9zOqy4UvuSYq8TzYCQHdDU6pXYBA=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 8689,
+    "artifact_sha256": "0c1a45eb64597cc339dd11ee2c3a95751805de8f72c85f95e66dbf56c7fa01e6",
+    "dependencies": {},
+    "evidence_sha256": "efde1157a13154bd2b5acdf70385fdb9a093d3ee21e470d6207e596be375f920",
+    "expires": 1795279407,
+    "issued_at": 1792691007,
+    "metadata": {
+     "category": "personal-home",
+     "id": "vool-team/trip-packing-list",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "b21064b4d3d942ae252d5227b62e081b"
+     },
+     "subcategory": "travel",
+     "summary": "Make a packing list for your trip from where, how long, weather and plans you give.",
+     "title": "Trip packing list",
+     "version": "1.0.0"
+    },
+    "native_digest": "474b761fd093e885d1a7f3889fb756aa21a6f15b8fde78d08c6e93da026e7452",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-c7087a3edac9f6407772a429",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "0c1a45eb64597cc339dd11ee2c3a95751805de8f72c85f95e66dbf56c7fa01e6",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-arm64",
+      "version": "0.7.1-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-x86_64",
+      "version": "0.7.1-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 6,
