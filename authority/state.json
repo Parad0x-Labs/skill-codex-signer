@@ -81,6 +81,86 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "bOQliV9HDkg94wH6+d4utf4EE26C4bR4YSIqDsg+CFc3U9r3azobzNLOgczaFRhhrbMXGb3l0PKXEImGCILQCg=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 9412,
+    "artifact_sha256": "c322a3fe0a52f2ac3fe715cf7f0eacffa9e69751c862e2e030b6280f709ce2a5",
+    "dependencies": {},
+    "evidence_sha256": "3869cd08354573cc7123f5754015726dee4ac10e34b53901e61630b195a7d777",
+    "expires": 1795278943,
+    "issued_at": 1792690543,
+    "metadata": {
+     "category": "personal-home",
+     "id": "vool-team/bill-explainer",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "5eda1cfeecb46f60d00c3976d09e1824"
+     },
+     "subcategory": "paperwork-admin",
+     "summary": "Explain a bill or statement you paste, line by line, and flag charges worth asking about.",
+     "title": "Bill explainer",
+     "version": "1.0.0"
+    },
+    "native_digest": "9a8560ca5cbef406205018711c25be7e9acca1e075ef570d2abb95f7504c6c1a",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": [
+      "model-settings"
+     ]
+    },
+    "plugin_id": "registry-05ef7db9914554b19fd69ba1",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "c322a3fe0a52f2ac3fe715cf7f0eacffa9e69751c862e2e030b6280f709ce2a5",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-arm64",
+      "version": "0.7.1-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-x86_64",
+      "version": "0.7.1-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 4,
