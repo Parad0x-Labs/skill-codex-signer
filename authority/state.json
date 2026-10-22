@@ -1,7 +1,88 @@
 {
  "authorized_until": 1793225554,
  "builds": [],
- "entries": [],
+ "entries": [
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "SLUOALkSDQiEqoStQn6sY8XKZhqjqEwWHPWbMwtJCCcdb7iFjFK+7mWRqQcX2GsX/F3zhpCxpmaELIM2+SiKCg=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 9316,
+    "artifact_sha256": "676fc76196d4d5457b59619143addcf4fdc4a59d6bbae236c30bad2073ca7a95",
+    "dependencies": {},
+    "evidence_sha256": "eb49cda42bf8215112c3c20615d55d5c806c734f3cf2a97bb4d3945d59f8b131",
+    "expires": 1795278939,
+    "issued_at": 1792690539,
+    "metadata": {
+     "category": "privacy-security",
+     "id": "vool-team/account-safety-plan",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "85ca14970a8599674de6af2cff5163f9"
+     },
+     "subcategory": "account-safety",
+     "summary": "Make a simple plan to secure your important accounts: sign-in checks, recovery and backups.",
+     "title": "Account safety plan",
+     "version": "1.0.0"
+    },
+    "native_digest": "57e3891388cade7f8c63d824b2d4fb7f9d0b8b568e7e05ee2db9d6463a63787c",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": [
+      "spending"
+     ]
+    },
+    "plugin_id": "registry-0eca743dd8b1fbe496ddb832",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "676fc76196d4d5457b59619143addcf4fdc4a59d6bbae236c30bad2073ca7a95",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-arm64",
+      "version": "0.7.1-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-x86_64",
+      "version": "0.7.1-beta"
+     }
+    ]
+   }
+  }
+ ],
  "epoch": 4,
  "marks": {
   "highlighted": [],
@@ -93,5 +174,5 @@
    "version": "0.7.1-beta"
   }
  ],
- "unpublished": false
+ "unpublished": true
 }
