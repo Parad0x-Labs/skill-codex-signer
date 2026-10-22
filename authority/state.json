@@ -3472,6 +3472,84 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "QKRUPjuP0cbVGc+sWe2fK3p3b1l7D/InojH8d1huGLiEsijsFd9fZIyeGlNdIwq4oG6sdEbWxQMSHI9HP8sXBg=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 7573,
+    "artifact_sha256": "daa5219848899fa82d586f549308c770b68beb6117be5e86d36469cb3b64961a",
+    "dependencies": {},
+    "evidence_sha256": "1d2c816f90e2ac507deeccc536f736eb7cf3b3001080e6690e4c7f401e546c30",
+    "expires": 1795279378,
+    "issued_at": 1792690978,
+    "metadata": {
+     "category": "writing",
+     "id": "vool-team/social-post-drafts",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "1be3c541e88dd3ce788d00b28e502119"
+     },
+     "subcategory": "social-posts",
+     "summary": "Turn your idea or update into three short post drafts of different lengths.",
+     "title": "Social post drafts",
+     "version": "1.0.0"
+    },
+    "native_digest": "b61b19ae3f0baf4ec4e5e08f79ffd4104b7b21b9926b8116916141eb25c34f79",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-5e2744f563bacb3674de7d3d",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "daa5219848899fa82d586f549308c770b68beb6117be5e86d36469cb3b64961a",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-arm64",
+      "version": "0.7.1-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-x86_64",
+      "version": "0.7.1-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 6,
