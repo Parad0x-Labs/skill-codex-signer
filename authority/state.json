@@ -716,6 +716,84 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "2lZyegTNfEi0lA+GGi6ZdbMeoYuAIft0IZf0r8GJXV8SKBXR7TxfHPdkgHY8ZpF8Q06HDDtgm28INMjpUzRCCQ=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 8193,
+    "artifact_sha256": "7b6bf3a085e1056e27b479b80a8a6aabff8a73c05cc4f035de39ce8974d4e37b",
+    "dependencies": {},
+    "evidence_sha256": "167033abf9ff652fafe88edfcbaae6b5f170ebffdb0a7bfff6ea8d556a606b13",
+    "expires": 1795278977,
+    "issued_at": 1792690577,
+    "metadata": {
+     "category": "personal-home",
+     "id": "vool-team/chore-rota",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "40976b90f7e9dfa72281574a6d751f2c"
+     },
+     "subcategory": "family-home",
+     "summary": "Share household chores fairly across the people and days you list.",
+     "title": "Chore rota",
+     "version": "1.0.0"
+    },
+    "native_digest": "58812258615c47c1a260655beff9e26851f63ea5535c93229639b1e45124ec0e",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-cc5599b1e615d69aceb498c8",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "7b6bf3a085e1056e27b479b80a8a6aabff8a73c05cc4f035de39ce8974d4e37b",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-arm64",
+      "version": "0.7.1-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-x86_64",
+      "version": "0.7.1-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 4,
