@@ -1190,6 +1190,84 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "414r4EY0aEsbRsnFk+KHQV0pC7B8R/xhR4wYrdEqe3TSnt1uq2OCp09UmwasAL9eA9n6hqLP8rMa0ZllSz2WCQ=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 7423,
+    "artifact_sha256": "d0c063be43f6c8ec16bf5f369b71372cb29b80846747908ca5fd0b8286e0e9ce",
+    "dependencies": {},
+    "evidence_sha256": "56a3fe5c15409f3634c214ecffbc282a0a3e12b539c1b85215f79c85d222c1ed",
+    "expires": 1795279001,
+    "issued_at": 1792690601,
+    "metadata": {
+     "category": "business",
+     "id": "vool-team/customer-reply",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "31efbe18b4f594c62c7d6ce646d61c35"
+     },
+     "subcategory": "customer-support",
+     "summary": "Draft a calm, helpful answer to a customer message using only facts you provide.",
+     "title": "Customer reply",
+     "version": "1.0.0"
+    },
+    "native_digest": "f7048187d77deead258f9225735bff4070e0a6525949919cd5ff26b9bf8b056e",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-f60c035e54b8d3243474d460",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "d0c063be43f6c8ec16bf5f369b71372cb29b80846747908ca5fd0b8286e0e9ce",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-arm64",
+      "version": "0.7.1-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-x86_64",
+      "version": "0.7.1-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 4,
