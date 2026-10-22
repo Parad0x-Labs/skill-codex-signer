@@ -478,6 +478,84 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "zBU5ijELHhSKhhUk9MvuOcLIipmzqwSz4lOrikimqs1g5ToiGg5uXVNjWzDGelz3Lpl4nfCGbsPtOCIIquEMAw=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 8412,
+    "artifact_sha256": "ce472026834d0e9267e6f6ae675cc411bed4dedc85f192b17d4ae762454986b9",
+    "dependencies": {},
+    "evidence_sha256": "acf887fe89f5c9779a31a6b7276b8666ee30f1612cb38279e75298d9f6f0099f",
+    "expires": 1795278966,
+    "issued_at": 1792690566,
+    "metadata": {
+     "category": "coding",
+     "id": "vool-team/build-log-reader",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "ea750a7a05ad64477dd5da3a06dfe283"
+     },
+     "subcategory": "scripts-devops",
+     "summary": "Read a build or deploy log you paste and explain where and why it failed.",
+     "title": "Build log reader",
+     "version": "1.0.0"
+    },
+    "native_digest": "feec8a8eadbcf6a49384da6a803aad0fbe87fe842fe9f7266198a396f625cec0",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-9f106b1202d7aca3bda435a1",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "ce472026834d0e9267e6f6ae675cc411bed4dedc85f192b17d4ae762454986b9",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-arm64",
+      "version": "0.7.1-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-x86_64",
+      "version": "0.7.1-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 4,
