@@ -2527,6 +2527,84 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "jY52cvKenMTj5kL9lLmUf+nsOqCXEIAP5aPnRmlvDTbVsF4uiah39KCd/4UGTJxwxet9CQ7N78+oD0gM6feACg=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 8456,
+    "artifact_sha256": "8cb3e20908b5364f0c9f9243bfc62704dd4aea0f32228dd7d44ac5af6ca3a00c",
+    "dependencies": {},
+    "evidence_sha256": "2b29b2c8b9ca9f3439b788fd9e12adde30fef80e265f1e17aee8acc2ad22f302",
+    "expires": 1795279214,
+    "issued_at": 1792690814,
+    "metadata": {
+     "category": "research-learning",
+     "id": "vool-team/plain-explainer",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "d469e4167c4bf8c47fe27fea271a187e"
+     },
+     "subcategory": "reading",
+     "summary": "Explain a hard text you paste in plain words, with key terms and a one-line takeaway.",
+     "title": "Plain explainer",
+     "version": "1.0.0"
+    },
+    "native_digest": "75c2a280c0a48beac4780f8fa75168b38951e6563b3ace82831b54b0872c382d",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-02cd75f81c206afcf79129ab",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "8cb3e20908b5364f0c9f9243bfc62704dd4aea0f32228dd7d44ac5af6ca3a00c",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-arm64",
+      "version": "0.7.1-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-x86_64",
+      "version": "0.7.1-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 5,
