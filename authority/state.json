@@ -2449,6 +2449,84 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "4iB4pdBNW9nHHRX5NqC2lNa7TCeEj6p0LLsFfJKAB4/v974laFCjl8egIZcWw8WCcilBVcXK0va1G3CEsMOMCw=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 7930,
+    "artifact_sha256": "24b2023310a291abc60f792dc36d3b439fd353174621bd0e914f3d6e16f91552",
+    "dependencies": {},
+    "evidence_sha256": "b61f60a3910a01258ec5fc3543e166347f317921117c32ed8df43b574283fa44",
+    "expires": 1795279210,
+    "issued_at": 1792690810,
+    "metadata": {
+     "category": "business",
+     "id": "vool-team/outreach-writer",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "5211cdea86359c58136db72da06f03a0"
+     },
+     "subcategory": "sales-outreach",
+     "summary": "Write a short, personal first message to a prospect from your offer and what you know about them.",
+     "title": "Outreach writer",
+     "version": "1.0.0"
+    },
+    "native_digest": "eb591c056d79c6c2b75f9323dfe8f9144420e3039fc364f8711dab37f6a0365e",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-5298d3f759ca5d86ca69a8c4",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "24b2023310a291abc60f792dc36d3b439fd353174621bd0e914f3d6e16f91552",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-arm64",
+      "version": "0.7.1-beta"
+     },
+     {
+      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
+      "platform": "macos-x86_64",
+      "version": "0.7.1-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 5,
