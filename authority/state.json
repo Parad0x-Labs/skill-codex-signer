@@ -5681,6 +5681,95 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "VKj+PLlDVCF0PzbI/4NvZdTAPQJHtsEmQrmFHrnuu90oj+ce7G52Au32nrYRfEPX3P8BR4vCDhHUK8UYwJjTDw=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 67918,
+    "artifact_sha256": "b04e451acf1041ed3c1b6f2ad1faf27644f17eabda3acc05e5190e847902b213",
+    "dependencies": {},
+    "evidence_sha256": "fef75cc3ddd7e9d806be11e6b047f94aeaa3e01136834b79079e68df3d91057d",
+    "expires": 1795332909,
+    "issued_at": 1792744509,
+    "metadata": {
+     "banner": {
+      "path": "assets/banner.png",
+      "sha256": "dd5712e2a42f7e470ec0ffb24fd316309e1013f38c629cbb0b1505737f7a77cd"
+     },
+     "category": "automation",
+     "icon": {
+      "path": "assets/icon.png",
+      "sha256": "d9278995715848f621ff1dfd9c1d57c2a8691328dd4881b4a73742e2534edd3a"
+     },
+     "id": "vool-team/folder-tidy-plan",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "release_notes": "Adds an icon and a banner. The instructions are unchanged.",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "fdbc0304a4f4646afd10351a17a5ddce"
+     },
+     "subcategory": "files-folders",
+     "summary": "Suggest a folder structure and naming rules from a file list you paste. Moves nothing.",
+     "title": "Folder tidy plan",
+     "version": "1.0.1"
+    },
+    "native_digest": "b6891313778d7c96e5acd2d1db8138f508e2ef99754ed0d81283514eb44a02ea",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": [
+      "spending"
+     ]
+    },
+    "plugin_id": "registry-6153a3d563b31ea379dbea80",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "b04e451acf1041ed3c1b6f2ad1faf27644f17eabda3acc05e5190e847902b213",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 8,
