@@ -4183,6 +4183,95 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "e4ZHppw7MH0rx5GMjtmpupn6cfo3ORjNps0AEeyeMuQL1ksANc64VXtXPk5v7R59LEV8TtAoP1n+yDvPDdoIAw=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 92366,
+    "artifact_sha256": "156db8163a01a012eb3538a0b106eadfb0a5d442f50b36385369be877c6db6cb",
+    "dependencies": {},
+    "evidence_sha256": "c2350ecd9bac3cab991ccf1de67ccca72c83863d7a615b7118be9e683052693e",
+    "expires": 1795332866,
+    "issued_at": 1792744466,
+    "metadata": {
+     "banner": {
+      "path": "assets/banner.png",
+      "sha256": "f403e5179f181698d0baf7b00cb1f105e3a63665db9e0c63b67d6793161c6cd6"
+     },
+     "category": "privacy-security",
+     "icon": {
+      "path": "assets/icon.png",
+      "sha256": "e8820079a9f4966afd212e885078a85a24bc70e72b9ac4fdc10859b70df0049a"
+     },
+     "id": "vool-team/account-safety-plan",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "release_notes": "Adds an icon and a banner. The instructions are unchanged.",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "7d6a3f2aa0c9ccfa095258bd1f4255fa"
+     },
+     "subcategory": "account-safety",
+     "summary": "Make a simple plan to secure your important accounts: sign-in checks, recovery and backups.",
+     "title": "Account safety plan",
+     "version": "1.0.1"
+    },
+    "native_digest": "e3caa65b687ce6c7fd79e93d17544e6cc949a0eebda39f44b1f98c46150796ae",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": [
+      "spending"
+     ]
+    },
+    "plugin_id": "registry-0eca743dd8b1fbe496ddb832",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "156db8163a01a012eb3538a0b106eadfb0a5d442f50b36385369be877c6db6cb",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 8,
@@ -4276,5 +4365,5 @@
    "version": "0.7.2-beta"
   }
  ],
- "unpublished": false
+ "unpublished": true
 }
