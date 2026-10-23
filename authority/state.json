@@ -5244,6 +5244,93 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "44Lo4dgyQ9FkWkD9AYq16487ckolhu5AhDaziXHojKGzK9Lg+D+EsuWCb4YQ71xbobjWZ3yIioE6yeMyyjLxDw=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 86807,
+    "artifact_sha256": "0df181a92f3c6c380f13ac5fbffba096e2abf330cf7279996f9bb967104872ab",
+    "dependencies": {},
+    "evidence_sha256": "e96a4640632047197b80dd03f4f77bc7a236d70d82ec7594e04482d302bd0c49",
+    "expires": 1795332897,
+    "issued_at": 1792744497,
+    "metadata": {
+     "banner": {
+      "path": "assets/banner.png",
+      "sha256": "0a799bf73757c28f88c090bd1664892e57bc21eadb66cd24d65e4b89866a8734"
+     },
+     "category": "writing",
+     "icon": {
+      "path": "assets/icon.png",
+      "sha256": "13e67d727a024029ac3c5d6aeb1b6dd8b44f9edf7ca083a2755e751d75190be7"
+     },
+     "id": "vool-team/cover-letter-writer",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "release_notes": "Adds an icon and a banner. The instructions are unchanged.",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "998f567b6830bd8b3b69b207cbbcfa29"
+     },
+     "subcategory": "cv-job-applications",
+     "summary": "Write a short cover letter from your CV and the job post, in your own voice.",
+     "title": "Cover letter writer",
+     "version": "1.0.1"
+    },
+    "native_digest": "db5b31286fed80fcae406db5258a7d4034f4a0d1aea1011dcf232cad721b2265",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-54011025563b435155e9e5e3",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "0df181a92f3c6c380f13ac5fbffba096e2abf330cf7279996f9bb967104872ab",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 8,
