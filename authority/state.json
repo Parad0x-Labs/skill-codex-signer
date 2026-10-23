@@ -7787,6 +7787,93 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "J5vI8RcXkrvEV3rYDe5Od9j44qL5Vhc4F/iPVi8kCY7Du9RME7e2JJ1WvrzmDoAKWi+GubIs9qUkEwg1z0fZCQ=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 75471,
+    "artifact_sha256": "63e720b5129b174feb0655f0a0c1db807df8cac2c3d7941bb51e282fca5e46e9",
+    "dependencies": {},
+    "evidence_sha256": "98431a45f96d11e143436ba81f1b8404ef984991074ff4f25a73ac052dcc0698",
+    "expires": 1795333176,
+    "issued_at": 1792744776,
+    "metadata": {
+     "banner": {
+      "path": "assets/banner.png",
+      "sha256": "caf5d06ac58443cd2ac610e454873ab3cb686a0f824555d5f2715eefc6cae394"
+     },
+     "category": "creative",
+     "icon": {
+      "path": "assets/icon.png",
+      "sha256": "bea5ed5f054c12613807e2bd19db9c70aeaa7b4caebef3e9a21757cb46f3c7c3"
+     },
+     "id": "vool-team/slide-design-plan",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "release_notes": "Adds an icon and a banner. The instructions are unchanged.",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "6ffc10c5f7855ebcd554400ece26a067"
+     },
+     "subcategory": "design-ideas",
+     "summary": "Plan a clear slide deck: one message per slide, layout, visuals and speaker notes.",
+     "title": "Slide design plan",
+     "version": "1.0.1"
+    },
+    "native_digest": "121fbd399868309a5c76d2169b8ff5d0d9c7e37f31b4b1b9fd99c63f9240c4d6",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-8eeccf18346a9895d4657990",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "63e720b5129b174feb0655f0a0c1db807df8cac2c3d7941bb51e282fca5e46e9",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 10,
