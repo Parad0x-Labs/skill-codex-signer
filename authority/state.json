@@ -6033,6 +6033,95 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "rqt5OFl1XDg+XZe+sj1X8P/ZU5ouLdfBd2btNbxSWNC6IG2uFkDhB/IvM9H9w7KgaXT5nkC776JQLnZQWiBDAg=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 82462,
+    "artifact_sha256": "3fa98a6eb34819e5d343060074797ae74caf1dbb83de88340954cc5a4ebe52ef",
+    "dependencies": {},
+    "evidence_sha256": "5243ea6f37608b9701a487303acda75d1b82664ddf0eec2d6c82136b5be2ebf3",
+    "expires": 1795333022,
+    "issued_at": 1792744622,
+    "metadata": {
+     "banner": {
+      "path": "assets/banner.png",
+      "sha256": "c2ebde6d0efa7a15e4f1ef1529c027cacfafb63125d91c31b0ae1c65b7dab743"
+     },
+     "category": "privacy-security",
+     "icon": {
+      "path": "assets/icon.png",
+      "sha256": "1fba223e0397effaf54310dd5282f20603211c35fe968de1e17d24f81b916a42"
+     },
+     "id": "vool-team/hacked-account-steps",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "release_notes": "Adds an icon and a banner. The instructions are unchanged.",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "fecaa6bb97ae67c38e69a9311c7e88df"
+     },
+     "subcategory": "account-safety",
+     "summary": "Calm, ordered steps to take back control after an account or password leak.",
+     "title": "Hacked account steps",
+     "version": "1.0.1"
+    },
+    "native_digest": "31c02127949ed1741056732f077f7454c044b0df60eaf24cbbb932cb1ea26c60",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": [
+      "spending"
+     ]
+    },
+    "plugin_id": "registry-b81fc2ae462a8afb211ffab5",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "3fa98a6eb34819e5d343060074797ae74caf1dbb83de88340954cc5a4ebe52ef",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 9,
