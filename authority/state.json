@@ -6473,6 +6473,93 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "BUajbp1xvba39JzB/pStB+c5Fr3MdSZaPhjhHsdYixGVXQ0ChTbaE19VC5qupor6hKFRhJqOVmp3O8YseuFeAw=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 87643,
+    "artifact_sha256": "2d41f7662b79b5e9178aca32e12e2c60f84de4935fa8003b6b208cadd3d0e513",
+    "dependencies": {},
+    "evidence_sha256": "7faa82a798823e3ab9a9e079a20607c1352d4f94cb0b508d21077753e1acb058",
+    "expires": 1795333036,
+    "issued_at": 1792744636,
+    "metadata": {
+     "banner": {
+      "path": "assets/banner.png",
+      "sha256": "498408b732a000b8ddb1f3b3c89861a04e526d63b40f07a602fcb8030c1d1e1c"
+     },
+     "category": "productivity",
+     "icon": {
+      "path": "assets/icon.png",
+      "sha256": "5a7db70973379ca57a2ff4b932f0b97146017c96111b59ddd50b8beb6cbb9e83"
+     },
+     "id": "vool-team/meeting-agenda",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "release_notes": "Adds an icon and a banner. The instructions are unchanged.",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "ad0cc736d6d82ad79ff9a800a20bf551"
+     },
+     "subcategory": "meetings",
+     "summary": "Build a timed meeting agenda from your goal, attendees and topics.",
+     "title": "Meeting agenda",
+     "version": "1.0.1"
+    },
+    "native_digest": "61ecc676721ed98c79d49e37b92844f0f91b260b1d147d1737b9c29684f6de7f",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-7c45ef532a4679396d8c6121",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "2d41f7662b79b5e9178aca32e12e2c60f84de4935fa8003b6b208cadd3d0e513",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 9,
