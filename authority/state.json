@@ -7436,6 +7436,93 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "NmicV+4+PYTazwoJdNxy9+8ZlcCpIsgZn00oOWPhjBpMSLdv6VKiSggkz7QWTqKReTzsIfsnaez8E6+yyqlHCA=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 70618,
+    "artifact_sha256": "e24a001859a2f0f22ef995372efd98a3aa6dffd7106e48a9f7d0b20da4a9a91a",
+    "dependencies": {},
+    "evidence_sha256": "253901a1204f21f0c803fcf2f5f34e6ea431b6f55d7cd0d597847e79957fde97",
+    "expires": 1795333068,
+    "issued_at": 1792744668,
+    "metadata": {
+     "banner": {
+      "path": "assets/banner.png",
+      "sha256": "baed8c7fc217ea733b81d73fc7000c25d16b89adc24c9642fb6dc35ffe3e3f58"
+     },
+     "category": "data-analysis",
+     "icon": {
+      "path": "assets/icon.png",
+      "sha256": "7173fe37b5188a811fe10f05ceb894fbc6ce2dd71e6f87c1a5905007e36ee700"
+     },
+     "id": "vool-team/report-outline",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "release_notes": "Adds an icon and a banner. The instructions are unchanged.",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "2b8ad0a0ac42ff3318fef49b1ecc9f6d"
+     },
+     "subcategory": "reports",
+     "summary": "Turn your findings and numbers into a short report outline with key points first.",
+     "title": "Report outline",
+     "version": "1.0.1"
+    },
+    "native_digest": "fb85775237fae199dd30d06c22b443f27ae3953ef230a531000b5b5a6952bf48",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-613bb3f7d9f9540716498e12",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "e24a001859a2f0f22ef995372efd98a3aa6dffd7106e48a9f7d0b20da4a9a91a",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 9,
