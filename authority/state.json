@@ -7874,6 +7874,93 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "JdZgDQMSMnyZAqMFN7hqyPPwcnWh2Qn3BI8dU2dn59vBnjrYz8eEdOKtrCBnLZHpE+vAC0DtnmOYDKZTXU+mDA=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 78903,
+    "artifact_sha256": "bea6cf74b2515b5513ce4bf4fa4d17cfda95b140bc3ff0db9d51aca362a22728",
+    "dependencies": {},
+    "evidence_sha256": "cbcd8083014f111c12480e37e856a5139446fe9159211a56ec7598f8dc7f5fe6",
+    "expires": 1795333178,
+    "issued_at": 1792744778,
+    "metadata": {
+     "banner": {
+      "path": "assets/banner.png",
+      "sha256": "0827c382b4353751c4cecb3f69a82e0a2bbde747532e09938caf673e20f0553b"
+     },
+     "category": "writing",
+     "icon": {
+      "path": "assets/icon.png",
+      "sha256": "fb9425ddb6f6385cd27454881756da01fa9517a945703d9ba98c3a9ddaac6c28"
+     },
+     "id": "vool-team/social-post-drafts",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "release_notes": "Adds an icon and a banner. The instructions are unchanged.",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "6397fd8df4f8937518efded84f3da588"
+     },
+     "subcategory": "social-posts",
+     "summary": "Turn your idea or update into three short post drafts of different lengths.",
+     "title": "Social post drafts",
+     "version": "1.0.1"
+    },
+    "native_digest": "c20790a7e02ccdd03ba503d068ebe2bad7f13f635b58c2e95b15bf968ccff4a6",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-5e2744f563bacb3674de7d3d",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "bea6cf74b2515b5513ce4bf4fa4d17cfda95b140bc3ff0db9d51aca362a22728",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 10,
