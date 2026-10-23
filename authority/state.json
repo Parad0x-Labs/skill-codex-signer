@@ -4714,6 +4714,93 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "FykriN1VZ1F+yc/bus4sEa/ByMDdmx1G064L0JBaloapvTDxPU5L4QA2y84l5VIwJxUd3f3vFZZ6xCYhL9q/Ag=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 71410,
+    "artifact_sha256": "01e2fe786d3bbc664931f6c2a1ed723b658a40a606cbc2e6fd035762de6176ea",
+    "dependencies": {},
+    "evidence_sha256": "92f900e76d5a2b93e9767afb15c8b3730e55ec780c1788e7e26d7a6a4f4538f0",
+    "expires": 1795332881,
+    "issued_at": 1792744481,
+    "metadata": {
+     "banner": {
+      "path": "assets/banner.png",
+      "sha256": "44c3466aa45f06ad660d0139452802af3f8b531f96b73e2963b19788bcb94579"
+     },
+     "category": "coding",
+     "icon": {
+      "path": "assets/icon.png",
+      "sha256": "75aadfdfb510a5d7e1d0bdefe521ef7b9688dbc00308fb4c7403b8d21e036c75"
+     },
+     "id": "vool-team/build-log-reader",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "release_notes": "Adds an icon and a banner. The instructions are unchanged.",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "c15c0f784418b04c73aaff4c6403091f"
+     },
+     "subcategory": "scripts-devops",
+     "summary": "Read a build or deploy log you paste and explain where and why it failed.",
+     "title": "Build log reader",
+     "version": "1.0.1"
+    },
+    "native_digest": "2f94b6df57f85d2ffe9ddf55751d57a79e8badcf27f3ab9464cabf169ae81760",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-9f106b1202d7aca3bda435a1",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "01e2fe786d3bbc664931f6c2a1ed723b658a40a606cbc2e6fd035762de6176ea",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 8,
