@@ -8317,8 +8317,426 @@
  ],
  "epoch": 11,
  "marks": {
+  "curation": {
+   "approved_pictures": [
+    {
+     "id": "vool-team/account-safety-plan",
+     "sha256": "e8820079a9f4966afd212e885078a85a24bc70e72b9ac4fdc10859b70df0049a"
+    },
+    {
+     "id": "vool-team/account-safety-plan",
+     "sha256": "f403e5179f181698d0baf7b00cb1f105e3a63665db9e0c63b67d6793161c6cd6"
+    },
+    {
+     "id": "vool-team/bill-explainer",
+     "sha256": "3a677d55e06f47eb2183f1645f492fa1dbbb86e5ba98104ed80545935b7374fa"
+    },
+    {
+     "id": "vool-team/bill-explainer",
+     "sha256": "1cad57dfa83c318e60f686011ba2ad8f0feed5b09c0987a2067d2c0340b76442"
+    },
+    {
+     "id": "vool-team/blog-post-builder",
+     "sha256": "f79c2c26e414ffa35b65c0d8d061265ac4a937cddc3339b6f676886ae41a818d"
+    },
+    {
+     "id": "vool-team/blog-post-builder",
+     "sha256": "99612370f0ca89b0f5e694a8031c4419c027732b3b6363cb85a23103e96b109b"
+    },
+    {
+     "id": "vool-team/brand-kit-ideas",
+     "sha256": "72ded0f6cfba58418f52b430faaa886012b9d72d64f37d7687f05eb446c085f6"
+    },
+    {
+     "id": "vool-team/brand-kit-ideas",
+     "sha256": "f765ea0a4712be06b4f77cd7236541e0bab7e951948eb16a7368dff8cbcdb2ed"
+    },
+    {
+     "id": "vool-team/budget-from-spending",
+     "sha256": "15a1d4f04242737c221a382c30fc2af805a9ef95be845bb7d22335300dd1655a"
+    },
+    {
+     "id": "vool-team/budget-from-spending",
+     "sha256": "d3fe6247228bb619fabc730fcd643b79ec2776757576786fe22f673cf2699d9c"
+    },
+    {
+     "id": "vool-team/bug-report-writer",
+     "sha256": "4ba7035da08f1d9deb3ff83c4c4ea68e57146565dfca19fa693f0fea9486fb13"
+    },
+    {
+     "id": "vool-team/bug-report-writer",
+     "sha256": "6a39ec7b0676b11987559b3277f558a599588cf41ed2616a575d56767ff219b8"
+    },
+    {
+     "id": "vool-team/build-log-reader",
+     "sha256": "75aadfdfb510a5d7e1d0bdefe521ef7b9688dbc00308fb4c7403b8d21e036c75"
+    },
+    {
+     "id": "vool-team/build-log-reader",
+     "sha256": "44c3466aa45f06ad660d0139452802af3f8b531f96b73e2963b19788bcb94579"
+    },
+    {
+     "id": "vool-team/buying-checklist",
+     "sha256": "3e60d8ffadcbcdcfcab26d250b4ccec9d30ad6f675be985b6975401471573d93"
+    },
+    {
+     "id": "vool-team/buying-checklist",
+     "sha256": "0d68145b6831075231dcd84ae8319e35c2b8ea9449294cc7cf98905fb3144a08"
+    },
+    {
+     "id": "vool-team/chore-rota",
+     "sha256": "bfbae9bfc1da1e406d7c58825d63dbdeebfcb2b1766e05531602b7efc9818548"
+    },
+    {
+     "id": "vool-team/chore-rota",
+     "sha256": "1a1eecacccf43e10c8ead92ef257caf4993ceea7a144c16750cd285219693131"
+    },
+    {
+     "id": "vool-team/code-review-notes",
+     "sha256": "5802c5dd8ead5347ff7b13e1b345c6c518d471d6aef041038bd9f16c2bf5a3ff"
+    },
+    {
+     "id": "vool-team/code-review-notes",
+     "sha256": "da4bad5b35b941b5a430dc7b64aae9d8d5a18e4f9dc5085e0926019dac0bbe5d"
+    },
+    {
+     "id": "vool-team/command-explainer",
+     "sha256": "5c5c0f095fd4097bd7b679a46322e8f7ee8ea59957c9411950194caf1b04490b"
+    },
+    {
+     "id": "vool-team/command-explainer",
+     "sha256": "0c297f68e69af0133ad93204a807990c212ca54ef2c8a4009994bba5ae18a350"
+    },
+    {
+     "id": "vool-team/contract-summary",
+     "sha256": "684591217171d45a3089a4094ed1173bad5681555529c7a34b62b9b0e0b46016"
+    },
+    {
+     "id": "vool-team/contract-summary",
+     "sha256": "e9664c247065f9143c6404ec705b5d28efcd5609dcc51130ce997629dc7251d0"
+    },
+    {
+     "id": "vool-team/cover-letter-writer",
+     "sha256": "13e67d727a024029ac3c5d6aeb1b6dd8b44f9edf7ca083a2755e751d75190be7"
+    },
+    {
+     "id": "vool-team/cover-letter-writer",
+     "sha256": "0a799bf73757c28f88c090bd1664892e57bc21eadb66cd24d65e4b89866a8734"
+    },
+    {
+     "id": "vool-team/customer-reply",
+     "sha256": "788255e6707b9c2329a889dbda9b8fdeace87e33311b3fa4d1f6c818437a0671"
+    },
+    {
+     "id": "vool-team/customer-reply",
+     "sha256": "11c92144a19d0c539cfbdd9301cdc317d260cd5cfbcba9139c5be505ff1d3bca"
+    },
+    {
+     "id": "vool-team/cv-tailor",
+     "sha256": "f6e23fa63d0ac95434e8e877ed564f96b46a12e699ca1fabfeb5d5e33219d061"
+    },
+    {
+     "id": "vool-team/cv-tailor",
+     "sha256": "8634895c853f95282c2b726771b2562ce42f9fec2baf93cafa96880dd7f885c7"
+    },
+    {
+     "id": "vool-team/data-cleanup-plan",
+     "sha256": "572bf0a4e628474bdf1355368f35a58a49a032c497f67152f70d32979970fbcb"
+    },
+    {
+     "id": "vool-team/data-cleanup-plan",
+     "sha256": "ef5df4087f73e4e6fb511b1682eff5b0d6c9a4cecb6b87a4531a73856e773e41"
+    },
+    {
+     "id": "vool-team/email-reply",
+     "sha256": "f457e01d802aa47ddcbf2d7acee2af582753b5db36df99292d0c316363ac7a87"
+    },
+    {
+     "id": "vool-team/email-reply",
+     "sha256": "df72b707a919c8c74511606e9dccbf42b360d4e9eae6a4f2636f901adec84e17"
+    },
+    {
+     "id": "vool-team/folder-tidy-plan",
+     "sha256": "d9278995715848f621ff1dfd9c1d57c2a8691328dd4881b4a73742e2534edd3a"
+    },
+    {
+     "id": "vool-team/folder-tidy-plan",
+     "sha256": "dd5712e2a42f7e470ec0ffb24fd316309e1013f38c629cbb0b1505737f7a77cd"
+    },
+    {
+     "id": "vool-team/follow-up-planner",
+     "sha256": "8a54940abf8204b0c2e9edd8e22d9399754c6c9a7b32b4513cce9a79bc6c5269"
+    },
+    {
+     "id": "vool-team/follow-up-planner",
+     "sha256": "b8365c626a77eea26d96a3eacf8992479576fd9fdfd3ee9ca23157b9b481e58c"
+    },
+    {
+     "id": "vool-team/formal-request-letter",
+     "sha256": "87590cac361e786ffaa3d93627e7269d785494ee90b090ee554082c91361cee4"
+    },
+    {
+     "id": "vool-team/formal-request-letter",
+     "sha256": "ff1612d04ce38308ba9a6142f032683619979253a6ee1157731125d9fd6249a8"
+    },
+    {
+     "id": "vool-team/formula-helper",
+     "sha256": "7621cc3cc2d543cb12eded09cb71e14f7082a520244348cbfdc11cdc74ec7da7"
+    },
+    {
+     "id": "vool-team/formula-helper",
+     "sha256": "dd4c9d4cda3c5bfe0d4b1473e34ff1cc8c576482234861471d6560ec4b6b300a"
+    },
+    {
+     "id": "vool-team/hacked-account-steps",
+     "sha256": "1fba223e0397effaf54310dd5282f20603211c35fe968de1e17d24f81b916a42"
+    },
+    {
+     "id": "vool-team/hacked-account-steps",
+     "sha256": "c2ebde6d0efa7a15e4f1ef1529c027cacfafb63125d91c31b0ae1c65b7dab743"
+    },
+    {
+     "id": "vool-team/image-prompt-builder",
+     "sha256": "dd28bed04757c78d8593a25f4e835d4c6a6a438c0b008d1492499f7471ea0dd9"
+    },
+    {
+     "id": "vool-team/image-prompt-builder",
+     "sha256": "64bf140f08f98494f728398385fb8b18e6ed25c40a3d8b4a1b8d9dff484ad8c5"
+    },
+    {
+     "id": "vool-team/invoice-writer",
+     "sha256": "dae47d9970a1760d97d49e4d11100ac660b036ee39daca11a7f11cffbb7ce358"
+    },
+    {
+     "id": "vool-team/invoice-writer",
+     "sha256": "7492d85db687c54a3f7c411224f938f8f344efdf8d537bfedf4c910d0558c86f"
+    },
+    {
+     "id": "vool-team/job-post-writer",
+     "sha256": "e7b75eff6bb684b07863ecd2a58f86dccebdd2e3e52d2db634799d9ee163b489"
+    },
+    {
+     "id": "vool-team/job-post-writer",
+     "sha256": "bae2af37eab00359e00bc45794331744c8abe1a28e9a26cec0023d5a0836a077"
+    },
+    {
+     "id": "vool-team/meal-plan-from-pantry",
+     "sha256": "e390551655bb6d1fde0153e6e20576a410be2a5d31ca0eef04127aef313d4008"
+    },
+    {
+     "id": "vool-team/meal-plan-from-pantry",
+     "sha256": "9bd5ad683f668120844bee0f8028ebd18bc517bfcb1eb2b4fcb08bcd0579f20b"
+    },
+    {
+     "id": "vool-team/meeting-agenda",
+     "sha256": "5a7db70973379ca57a2ff4b932f0b97146017c96111b59ddd50b8beb6cbb9e83"
+    },
+    {
+     "id": "vool-team/meeting-agenda",
+     "sha256": "498408b732a000b8ddb1f3b3c89861a04e526d63b40f07a602fcb8030c1d1e1c"
+    },
+    {
+     "id": "vool-team/newsletter-writer",
+     "sha256": "b7cbce6018989974c63735f623a6229fa47ca90c738453ca09dcac8d48d4f954"
+    },
+    {
+     "id": "vool-team/newsletter-writer",
+     "sha256": "ad6535ac6fed9193c1cc0fc367cebd4c383cba60b07db16f105f801e8db7cbf6"
+    },
+    {
+     "id": "vool-team/notes-to-actions",
+     "sha256": "680903cf41454a27133e34a88f5bca073f79bb4f9cd801c7c2597e4dd3cf9372"
+    },
+    {
+     "id": "vool-team/notes-to-actions",
+     "sha256": "aa537880cef1e74f867982a451a2cc532e2b61e02366520fe76678f0113fe2a0"
+    },
+    {
+     "id": "vool-team/outreach-writer",
+     "sha256": "fc04f1b686d2b929273002ef254da581a83218fb6413a7e986f34118146b41df"
+    },
+    {
+     "id": "vool-team/outreach-writer",
+     "sha256": "2f9d6c7ff0ad6420d0bc45a468419f78b109f5c55f385496daf74d8affdcec70"
+    },
+    {
+     "id": "vool-team/plain-explainer",
+     "sha256": "1eb0af6608c18169c4619326da054e5eb3ae902a25db6f1ded7f13f5d74d4ffa"
+    },
+    {
+     "id": "vool-team/plain-explainer",
+     "sha256": "354ce07f6017228fc3f92ca9f3cff5e2985c44fa14d3e8ff274b37716784fd4a"
+    },
+    {
+     "id": "vool-team/price-data-reader",
+     "sha256": "c3d5f7d1cfda1bffc2804f1a5c07ab82d067cf753dbbf410755ca6b154699477"
+    },
+    {
+     "id": "vool-team/price-data-reader",
+     "sha256": "f056a1a04b503f76735b4de95c098bcfe80252684a8c924c287bea64ccaaa6f1"
+    },
+    {
+     "id": "vool-team/privacy-checkup",
+     "sha256": "f7b93dd02c05c27e0ee047c2529744ac9e021163101150b19c5f1cb7c4b05ca0"
+    },
+    {
+     "id": "vool-team/privacy-checkup",
+     "sha256": "66e6b95a8556e9449146ff6ba1fa5a5992dd1171461b5c08458b33af696866e5"
+    },
+    {
+     "id": "vool-team/proofread-plain",
+     "sha256": "2c5f4cdec4f3faf133ff4a61bcb8305004591b6d68f1bb80b7aaf04c74245abb"
+    },
+    {
+     "id": "vool-team/proofread-plain",
+     "sha256": "c147461041d3ec49d50ea7559df81016dd11f89989371823c5c1ae3348d87539"
+    },
+    {
+     "id": "vool-team/readme-writer",
+     "sha256": "424fe13bcf1f65b0d332b5987aca51d02acb6f9183023058952b19616a0cb081"
+    },
+    {
+     "id": "vool-team/readme-writer",
+     "sha256": "1a28e861147c53f62f5842d0b5a8a2fff34b7e875a384f2bc37f6ddbe4cfb490"
+    },
+    {
+     "id": "vool-team/receipt-organizer",
+     "sha256": "9494bfb3c07b17b486481dae4ec547ea4a0106755b3b8d3269eb7050563d9f0b"
+    },
+    {
+     "id": "vool-team/receipt-organizer",
+     "sha256": "6d3d36ad6eb595cb53f8fe060debc95de227264280e123507365e5b4cdc7d83a"
+    },
+    {
+     "id": "vool-team/redact-before-sharing",
+     "sha256": "3b1c3f0c593a3481f7feac71d820559abe076a1d6ae39fdc8897f4a857d07ed8"
+    },
+    {
+     "id": "vool-team/redact-before-sharing",
+     "sha256": "fd7e6ff65cab3138b74d64b0af169257cb3ff24baf3f19c79c357e0615f8684e"
+    },
+    {
+     "id": "vool-team/report-outline",
+     "sha256": "7173fe37b5188a811fe10f05ceb894fbc6ce2dd71e6f87c1a5905007e36ee700"
+    },
+    {
+     "id": "vool-team/report-outline",
+     "sha256": "baed8c7fc217ea733b81d73fc7000c25d16b89adc24c9642fb6dc35ffe3e3f58"
+    },
+    {
+     "id": "vool-team/return-refund-helper",
+     "sha256": "9dfe364bf294131ccc4e730a52ce5857f053b63e8070a4d08563734372204ee1"
+    },
+    {
+     "id": "vool-team/return-refund-helper",
+     "sha256": "53e8dff3ec216e50fc92bf891fe56a1a3d2b646869997f97f936b9db4b3f702d"
+    },
+    {
+     "id": "vool-team/scam-check",
+     "sha256": "3de81b177d4a961e719d191ab1c69bc470824d5584b15407d0cdd8db4035555a"
+    },
+    {
+     "id": "vool-team/scam-check",
+     "sha256": "b4550be597aff9cc4e33f4c84d0ee2570c4cf1f877e23dbc93988c9a3dfb6e50"
+    },
+    {
+     "id": "vool-team/short-video-script",
+     "sha256": "2fc27d5b2effe74e66bef60dc982ac797a34262da8598145b85bfc69452b713c"
+    },
+    {
+     "id": "vool-team/short-video-script",
+     "sha256": "a221b65747b09800e14446172e56b0c1f367ee0b86bb0e4d37da7988f83607a1"
+    },
+    {
+     "id": "vool-team/slide-design-plan",
+     "sha256": "bea5ed5f054c12613807e2bd19db9c70aeaa7b4caebef3e9a21757cb46f3c7c3"
+    },
+    {
+     "id": "vool-team/slide-design-plan",
+     "sha256": "caf5d06ac58443cd2ac610e454873ab3cb686a0f824555d5f2715eefc6cae394"
+    },
+    {
+     "id": "vool-team/social-post-drafts",
+     "sha256": "fb9425ddb6f6385cd27454881756da01fa9517a945703d9ba98c3a9ddaac6c28"
+    },
+    {
+     "id": "vool-team/social-post-drafts",
+     "sha256": "0827c382b4353751c4cecb3f69a82e0a2bbde747532e09938caf673e20f0553b"
+    },
+    {
+     "id": "vool-team/song-lyrics-starter",
+     "sha256": "23c2028fdb62a62f5372b7a1e695838bfc0f9fc4e1dfbeb5dc7ad86243e533df"
+    },
+    {
+     "id": "vool-team/song-lyrics-starter",
+     "sha256": "bda724634f31c9b49b62a99ea3123cd55c7ba4af5bffb5816b9191989f190523"
+    },
+    {
+     "id": "vool-team/sql-explainer",
+     "sha256": "4f41fa786fbd792b14bb7452a543827e939a7d8a7c90349ba35761fba3d9eed5"
+    },
+    {
+     "id": "vool-team/sql-explainer",
+     "sha256": "77b17b6199960057f56af23cc653b52950a32fa8af03323f2427768d64159b6a"
+    },
+    {
+     "id": "vool-team/study-flashcards",
+     "sha256": "5fb4694ee791aeb407167b888cdc4b99821ae160a3219de3284184ba912e73ab"
+    },
+    {
+     "id": "vool-team/study-flashcards",
+     "sha256": "ad4e9f0068fc089290852551db942200cd91542f9cd7497143b9eac8bd1e1840"
+    },
+    {
+     "id": "vool-team/tax-notes-organizer",
+     "sha256": "44b9ea8787ef0b761907747a80c1f84182fbfcb737b0dd23588d1da981dbc1ee"
+    },
+    {
+     "id": "vool-team/tax-notes-organizer",
+     "sha256": "17e72cdaca35c4a0893b554c2893aa0bc248b0fb9d89b0df5a61eb55ac96432d"
+    },
+    {
+     "id": "vool-team/transaction-explainer",
+     "sha256": "a2010ebb9e393d81884442f54794670ba9b555c9488e165d8b45fff59adb56e8"
+    },
+    {
+     "id": "vool-team/transaction-explainer",
+     "sha256": "11357ac8b0faadd5bd413e7a9be1770685c3b021692495e5b61a207aa10ddafa"
+    },
+    {
+     "id": "vool-team/translate-keep-tone",
+     "sha256": "283ab06e452e3f4e5f349c43bee3251189a600e579c1a50f95f3e70c4222dcc2"
+    },
+    {
+     "id": "vool-team/translate-keep-tone",
+     "sha256": "e7b016c9d85c80c032b552afed8c7a7a4d126e08459a2ca753422fef0409243f"
+    },
+    {
+     "id": "vool-team/trip-packing-list",
+     "sha256": "a3f5713ef82b38299282e39f6abfda584f4231a493e3c5d39dad3194aef3a763"
+    },
+    {
+     "id": "vool-team/trip-packing-list",
+     "sha256": "a45d5ad31ec548ab87a471a221cd2b3a1e720228c9fec1abbf9c66cdab802616"
+    },
+    {
+     "id": "vool-team/weekly-plan",
+     "sha256": "ec6dac23cb562753d6612ff494602acdb01ffad9fffe02c12099d525d210354e"
+    },
+    {
+     "id": "vool-team/weekly-plan",
+     "sha256": "697266444abf2cd3d060927e09fa0fa5a4ce6a19e3a9198520d0f15dea35d2b3"
+    }
+   ],
+   "editors_picks": [],
+   "featured": [],
+   "official_namespaces": [],
+   "reviewers": {},
+   "reviews": [],
+   "schema": "vool.registry.curation.v1"
+  },
   "highlighted": [],
-  "sequence": 1,
+  "sequence": 2,
   "suspended": [],
   "teams": {
    "vool-team": [
@@ -8327,6 +8745,7 @@
   },
   "tested": []
  },
+ "marks_unsent": true,
  "moderation": {
   "comments": [],
   "counts": {
