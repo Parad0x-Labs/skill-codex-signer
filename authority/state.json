@@ -4537,6 +4537,96 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "ELaFkXJ1tcFVvuJtV/dv2ReBkJUOVLese6EL6zdZvq764gDv8fyUTk46EvRUohh4ExbEPGDEy8gNFwIAnoJICA=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 92406,
+    "artifact_sha256": "3ffa5375a707a2bc3d9b64070258a1d3c94cd1ffd0677e38828832dbe18b4378",
+    "dependencies": {},
+    "evidence_sha256": "99b665d7d97221d19d7fdafbb185b3635cbd8c3561afd0c18b625512bfb217d5",
+    "expires": 1795332877,
+    "issued_at": 1792744477,
+    "metadata": {
+     "banner": {
+      "path": "assets/banner.png",
+      "sha256": "d3fe6247228bb619fabc730fcd643b79ec2776757576786fe22f673cf2699d9c"
+     },
+     "category": "money-crypto",
+     "icon": {
+      "path": "assets/icon.png",
+      "sha256": "15a1d4f04242737c221a382c30fc2af805a9ef95be845bb7d22335300dd1655a"
+     },
+     "id": "vool-team/budget-from-spending",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "release_notes": "Adds an icon and a banner. The instructions are unchanged.",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "29227865d037d447cc937136e28ce80f"
+     },
+     "subcategory": "budgeting",
+     "summary": "Sort the spending you paste into categories and suggest a simple monthly budget.",
+     "title": "Budget from spending",
+     "version": "1.0.1"
+    },
+    "native_digest": "d96c9802d09fd773594b4ed3616930b345d91ecb9099adf080ccc9e6d2180084",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": [
+      "currency",
+      "spending"
+     ]
+    },
+    "plugin_id": "registry-ebfbca3a45d8635bb09dbf89",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "3ffa5375a707a2bc3d9b64070258a1d3c94cd1ffd0677e38828832dbe18b4378",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 8,
