@@ -7086,6 +7086,93 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "//lpqgpjeF3GsAkhglFEX2JPnQRwEww/hUWHxqEQd2mX7siHYeBfENEOLvfK7ph6iAKRH98Dvb+5K+c9B2dHBg=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 78389,
+    "artifact_sha256": "be0f360f05cd1236064c97be9b66adff4028578856df8d5d08c611c3a9bfccbf",
+    "dependencies": {},
+    "evidence_sha256": "1bf4cd969b0d5da17dc3893f3449eaab768a75627d995edb5a6ff025ac14dd6a",
+    "expires": 1795333056,
+    "issued_at": 1792744656,
+    "metadata": {
+     "banner": {
+      "path": "assets/banner.png",
+      "sha256": "c147461041d3ec49d50ea7559df81016dd11f89989371823c5c1ae3348d87539"
+     },
+     "category": "writing",
+     "icon": {
+      "path": "assets/icon.png",
+      "sha256": "2c5f4cdec4f3faf133ff4a61bcb8305004591b6d68f1bb80b7aaf04c74245abb"
+     },
+     "id": "vool-team/proofread-plain",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "release_notes": "Adds an icon and a banner. The instructions are unchanged.",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "49aa1b808d5eabff2c84e6bf735322af"
+     },
+     "subcategory": "editing-proofreading",
+     "summary": "Fix spelling, grammar and unclear sentences in your text and list what changed.",
+     "title": "Proofread",
+     "version": "1.0.1"
+    },
+    "native_digest": "4026e24c9c035d0de2d32f6d4fa8cd127ca84c206c2ee260c58cfaef7e1795bc",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-1aacb94abecde6668610724c",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "be0f360f05cd1236064c97be9b66adff4028578856df8d5d08c611c3a9bfccbf",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 9,
