@@ -8137,6 +8137,93 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "mrbtYzS3fv8K5LUxsESQ/V0VmOjG9e7mZRGpuplfS8Ig6mEhKcbsrE0VFsn37DzNNjYB331IHKhsCX9hEdInDw=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 77820,
+    "artifact_sha256": "c1fb0e70d9674a0e6ccbe3ad73a43989d334fe75a9a8e9bb300797e8d9312c06",
+    "dependencies": {},
+    "evidence_sha256": "a1938f1a1ff92a3a38de67289a3e3ac7217f1f5ce0ada539ef4c53500c848754",
+    "expires": 1795333187,
+    "issued_at": 1792744787,
+    "metadata": {
+     "banner": {
+      "path": "assets/banner.png",
+      "sha256": "ad4e9f0068fc089290852551db942200cd91542f9cd7497143b9eac8bd1e1840"
+     },
+     "category": "research-learning",
+     "icon": {
+      "path": "assets/icon.png",
+      "sha256": "5fb4694ee791aeb407167b888cdc4b99821ae160a3219de3284184ba912e73ab"
+     },
+     "id": "vool-team/study-flashcards",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "release_notes": "Adds an icon and a banner. The instructions are unchanged.",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "de063aad52939b63e44a27f41f193e68"
+     },
+     "subcategory": "study-tutoring",
+     "summary": "Make question-and-answer flashcards and a short self-test from your study notes.",
+     "title": "Study flashcards",
+     "version": "1.0.1"
+    },
+    "native_digest": "33193d9ba021a589ab86f2e7be44c1ca353e6182189c8b9df5e21f086a9a8640",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-255d05b8057604999e06f211",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "c1fb0e70d9674a0e6ccbe3ad73a43989d334fe75a9a8e9bb300797e8d9312c06",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 10,
