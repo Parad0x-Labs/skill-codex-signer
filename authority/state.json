@@ -7523,6 +7523,93 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "6mSlYsszQhVc0bqQ/MR7H+u/i5S7JiXIAgf3S/EWfn0tqP4+I9lC6Rr1UqnwX9zRCsuCnkadR8TtW2zCGBIiDg=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 91920,
+    "artifact_sha256": "98215472fe5e2f5a4baf2de913bdfba5f71f7d752eb939d077c7575ea52e7ef2",
+    "dependencies": {},
+    "evidence_sha256": "b57dfa8fc658829b9a564a76e8d871a072486167fd37561977c98a7ae379c04e",
+    "expires": 1795333070,
+    "issued_at": 1792744670,
+    "metadata": {
+     "banner": {
+      "path": "assets/banner.png",
+      "sha256": "53e8dff3ec216e50fc92bf891fe56a1a3d2b646869997f97f936b9db4b3f702d"
+     },
+     "category": "personal-home",
+     "icon": {
+      "path": "assets/icon.png",
+      "sha256": "9dfe364bf294131ccc4e730a52ce5857f053b63e8070a4d08563734372204ee1"
+     },
+     "id": "vool-team/return-refund-helper",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "release_notes": "Adds an icon and a banner. The instructions are unchanged.",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "e792da4837973252e176d0a4e977d74e"
+     },
+     "subcategory": "shopping",
+     "summary": "Prepare a return or refund request from your order details, with the right tone and facts.",
+     "title": "Return and refund helper",
+     "version": "1.0.1"
+    },
+    "native_digest": "17fc563744141d7a88af45432747029ace38aa801190d51926a06f9897fbf93b",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-13258a72b86f124fa4bc404a",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "98215472fe5e2f5a4baf2de913bdfba5f71f7d752eb939d077c7575ea52e7ef2",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 9,
