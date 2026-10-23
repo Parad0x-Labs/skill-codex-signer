@@ -6560,6 +6560,93 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "o4C8MpV2xFpAJkoKodzEn6kFxRjCd7yJ3rV8kkQFeaov8oPOs0V3+oECMkvEms9YBYBZamrD9mb8DpAwm6CfDg=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 75209,
+    "artifact_sha256": "58b5c05214ef432dcbad323b5d02dfe65b36925d529afb26859075576ea5a50f",
+    "dependencies": {},
+    "evidence_sha256": "7d108a5efe00abef2e48c46b95426816e72da10146362595b50462c3f59adeef",
+    "expires": 1795333039,
+    "issued_at": 1792744639,
+    "metadata": {
+     "banner": {
+      "path": "assets/banner.png",
+      "sha256": "ad6535ac6fed9193c1cc0fc367cebd4c383cba60b07db16f105f801e8db7cbf6"
+     },
+     "category": "writing",
+     "icon": {
+      "path": "assets/icon.png",
+      "sha256": "b7cbce6018989974c63735f623a6229fa47ca90c738453ca09dcac8d48d4f954"
+     },
+     "id": "vool-team/newsletter-writer",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "release_notes": "Adds an icon and a banner. The instructions are unchanged.",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "2dc3b01c6c85c0272273b5722606c31c"
+     },
+     "subcategory": "articles-blogs",
+     "summary": "Turn this week's updates into a short, readable newsletter issue with a clear subject line.",
+     "title": "Newsletter writer",
+     "version": "1.0.1"
+    },
+    "native_digest": "bc026e45cc3bdb9e20c05ac4b7e2bb9f6156418ec3e2a4d224687ce3dd2717c2",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-bc993ff58a256f3beb0f6976",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "58b5c05214ef432dcbad323b5d02dfe65b36925d529afb26859075576ea5a50f",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 9,
