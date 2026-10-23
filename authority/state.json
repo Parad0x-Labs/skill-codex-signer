@@ -6,16 +6,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "SLUOALkSDQiEqoStQn6sY8XKZhqjqEwWHPWbMwtJCCcdb7iFjFK+7mWRqQcX2GsX/F3zhpCxpmaELIM2+SiKCg=="
+     "sig": "lSg3+U0ACtEkxD0+esO29zzqRpPjJ9FkbnKGmBKXyiqrj7hphm24wxLZq0Bnjt02RSNSuk7coXZvsOTv+7o0BA=="
     }
    ],
    "signed": {
     "artifact_length": 9316,
     "artifact_sha256": "676fc76196d4d5457b59619143addcf4fdc4a59d6bbae236c30bad2073ca7a95",
     "dependencies": {},
-    "evidence_sha256": "eb49cda42bf8215112c3c20615d55d5c806c734f3cf2a97bb4d3945d59f8b131",
-    "expires": 1795278939,
-    "issued_at": 1792690539,
+    "evidence_sha256": "c5b4da2d35fed668a8011bd5f117d0efb0146075d802448316d3cf6d5f4b2f59",
+    "expires": 1795305277,
+    "issued_at": 1792716877,
     "metadata": {
      "category": "privacy-security",
      "id": "vool-team/account-safety-plan",
@@ -50,6 +50,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -68,16 +78,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -86,16 +86,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "bOQliV9HDkg94wH6+d4utf4EE26C4bR4YSIqDsg+CFc3U9r3azobzNLOgczaFRhhrbMXGb3l0PKXEImGCILQCg=="
+     "sig": "r1CY3Z/5bKXnrwQGYkxzJZ0IESm1XPQ6qyUGK+njUEU361zmYgfb3RzBa2q6cv5AE9YZ6Q5qQMi5kfbTMNVUBw=="
     }
    ],
    "signed": {
     "artifact_length": 9412,
     "artifact_sha256": "c322a3fe0a52f2ac3fe715cf7f0eacffa9e69751c862e2e030b6280f709ce2a5",
     "dependencies": {},
-    "evidence_sha256": "3869cd08354573cc7123f5754015726dee4ac10e34b53901e61630b195a7d777",
-    "expires": 1795278943,
-    "issued_at": 1792690543,
+    "evidence_sha256": "d465a5e427ef8978a8611946073081e0962d1535bd07ca704b0e4dadbed3f70a",
+    "expires": 1795305278,
+    "issued_at": 1792716878,
     "metadata": {
      "category": "personal-home",
      "id": "vool-team/bill-explainer",
@@ -130,6 +130,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -148,16 +158,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -166,16 +166,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "fosRCfh9Vul24RgES/IpMOJJKWCLjAJYiwiDbjA8o6fnoXJYDb5hl371SkhB0AEEkrQ7yKgYxKXdaA2haMeMDA=="
+     "sig": "nb5cAIddkaYjlLJuO0j7pdDT92wbkOGEoGOb5/JP8pFD7+n+0UvF0xWCZPGs80qTkBmqLulD6nSF7dYDYaBCDw=="
     }
    ],
    "signed": {
     "artifact_length": 8655,
     "artifact_sha256": "1f23e16df01e03643cd0c7694b9bdf7a9fe5b6266785b879a85224d9807f43f7",
     "dependencies": {},
-    "evidence_sha256": "a9f459658eeff089d124bde58cd44c300d8f4430716e00c1371533b436e01a81",
-    "expires": 1795278946,
-    "issued_at": 1792690546,
+    "evidence_sha256": "47d05edd65e4e92427a1af987fd9501f4df595fbfe271ea1c5902fa983d4569b",
+    "expires": 1795305278,
+    "issued_at": 1792716878,
     "metadata": {
      "category": "writing",
      "id": "vool-team/blog-post-builder",
@@ -210,6 +210,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -228,16 +238,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -246,16 +246,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "56e2cKDA7bj95E3b1ebaWhhyOQJJC4SavOXJqDmAk/PKc5SJCymxgmeQQpIDcO4M+vnMhoJQ9MezF7fsERpxDw=="
+     "sig": "pXRQdt5OHc3EuJdRSsbMyuTM8tu/P1hz0z/i0/GwhNNo6hqQsneIbcD9pwn6nUws38aphqZ/kUZDCvxY5tHaAQ=="
     }
    ],
    "signed": {
     "artifact_length": 8474,
     "artifact_sha256": "8b713e9335825306a0acf1f17ef50a1f9920c60c0fb03b1e7296511210997be4",
     "dependencies": {},
-    "evidence_sha256": "02425386c633e100678f7dffcb72f111c64465a2de3bf3fb6b19449ddcde0f0b",
-    "expires": 1795278952,
-    "issued_at": 1792690552,
+    "evidence_sha256": "1b21f26cc43427126ea04d5e347ab8a4c63990771b921d340ad030b35716cd0d",
+    "expires": 1795305278,
+    "issued_at": 1792716878,
     "metadata": {
      "category": "creative",
      "id": "vool-team/brand-kit-ideas",
@@ -288,6 +288,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -306,16 +316,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -324,16 +324,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "j1db8uVNWnhjViaMRLYbDNLHKMDEwly1r/ehD4nGLCFz6G/0CQR/Q4U+j47Le9uqVCnkD00ha9TiNDLrIVl1AA=="
+     "sig": "hhsKiS8e6SG8uNPWbOND1DkUowvBa8cr8+hyl4bgVf19P8u41EsV8DFhQCq1CeQ3pMFURhDdfpqfxtZP/HIaAw=="
     }
    ],
    "signed": {
     "artifact_length": 9044,
     "artifact_sha256": "1b2015439a66180ab8d708fdfdd26da7e8f2b2e7a4cd225c761de38096cf043a",
     "dependencies": {},
-    "evidence_sha256": "1be0059944a369dc3aa404377c2f2dc33a6aa951df1572a65db45cadc6ecff19",
-    "expires": 1795278955,
-    "issued_at": 1792690555,
+    "evidence_sha256": "09ba1cfd9e9900aa46c77e6fc10ce80bee8477dad7d3ee92e31f156dbbcd585f",
+    "expires": 1795305278,
+    "issued_at": 1792716878,
     "metadata": {
      "category": "money-crypto",
      "id": "vool-team/budget-from-spending",
@@ -369,6 +369,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -387,16 +397,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -405,16 +405,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "aatxi6LWfdm6xu2lLBuwpA+oDSQY9AR17+1TEE5E2YNrG7So4kV2VW48/VtOAHQBYnVVFGj8jyeB4afOO5MKAw=="
+     "sig": "TnvDnU/gqna4TPgD6HdL0A/nj3H4R60se0nmOIzwJZyIx0b7eXm5iEmL0mZ3ZWjJcOnrBeM6UTqee9iqmYQSAw=="
     }
    ],
    "signed": {
     "artifact_length": 7780,
     "artifact_sha256": "17475322b1a85aab9f0339d7685b91b772751e3edfa36e1cc91cae4c073074e8",
     "dependencies": {},
-    "evidence_sha256": "a5a0dea244b41c6a07953c17dc38e32fadd7fa0c301c3ea3bd18d2d4090878ab",
-    "expires": 1795278960,
-    "issued_at": 1792690560,
+    "evidence_sha256": "6cb9911e830b8b4561e49e2775a1ed33f435f8e995a512413c44871bdbf90332",
+    "expires": 1795305279,
+    "issued_at": 1792716879,
     "metadata": {
      "category": "coding",
      "id": "vool-team/bug-report-writer",
@@ -447,6 +447,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -465,16 +475,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -483,16 +483,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "zBU5ijELHhSKhhUk9MvuOcLIipmzqwSz4lOrikimqs1g5ToiGg5uXVNjWzDGelz3Lpl4nfCGbsPtOCIIquEMAw=="
+     "sig": "IrWzjZvNWj2rO/KyxHk5JA8To1Gdz99rE73uWx9QWXiFAOQB1AJ1IFqnX3q+/y+okd+EjHyknENOpFNuU11rAA=="
     }
    ],
    "signed": {
     "artifact_length": 8412,
     "artifact_sha256": "ce472026834d0e9267e6f6ae675cc411bed4dedc85f192b17d4ae762454986b9",
     "dependencies": {},
-    "evidence_sha256": "acf887fe89f5c9779a31a6b7276b8666ee30f1612cb38279e75298d9f6f0099f",
-    "expires": 1795278966,
-    "issued_at": 1792690566,
+    "evidence_sha256": "35c959a81d5ba7bce0a3e99f04149297de00795edfe63911daa5450e845d558f",
+    "expires": 1795305279,
+    "issued_at": 1792716879,
     "metadata": {
      "category": "coding",
      "id": "vool-team/build-log-reader",
@@ -525,6 +525,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -543,16 +553,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -561,16 +561,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "hZwYujlYjw/b9FaR2XzZuhgJtHUlykVmQTg0rcv+2HhOqaCQC+Cem23PwFNPNPRJBggH9GwfePskDHrkAzjvBg=="
+     "sig": "BvyU72hH1Xl8aCsEQUfib/+dgVjnjOqvRgjn0NojXRwZJaa3bewwC0PzEMH0ErErxDXLtvILcwogTTdLH+M4DA=="
     }
    ],
    "signed": {
     "artifact_length": 9661,
     "artifact_sha256": "b0d09d357fd1e9fd13cf5a74c53fd85bd475c5741d1748b5b7e5168cba6cb1a5",
     "dependencies": {},
-    "evidence_sha256": "c1e3315874816d2e823fab2ada0d7b7d089d4a12c5da5bdfd1fa43ea6d06f59d",
-    "expires": 1795278968,
-    "issued_at": 1792690568,
+    "evidence_sha256": "6e7167fa700c068be3eccad482dcf885277f3d2ef4aad5d1736b10152497ae33",
+    "expires": 1795305279,
+    "issued_at": 1792716879,
     "metadata": {
      "category": "personal-home",
      "id": "vool-team/buying-checklist",
@@ -605,6 +605,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -623,16 +633,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -641,16 +641,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "N+j/eLuzWEkoHLM74OB1G705rNEDW7lS0GxCElb7f5LvKwBxfDAbQyLkf3idT9l/+EBMk5BQ9euZT6FElWgwDQ=="
+     "sig": "y4EIkI7azyZd2dBdugtWWXHCtS1x/XhXYsF14bgbLYZ29iGv8CiIQvBTt9NSSGX1IkZu1V58LPb5lT8yBPLsCA=="
     }
    ],
    "signed": {
     "artifact_length": 7873,
     "artifact_sha256": "e6500c7ace46f53d2ad9cb037a30cf5f096aa1bbc14a7a4c356b3e9473de9470",
     "dependencies": {},
-    "evidence_sha256": "2fa421bb0bb418950c0d47c8683a13c5647e2a4e45f7c7d920ae60aa3000d4eb",
-    "expires": 1795278973,
-    "issued_at": 1792690573,
+    "evidence_sha256": "b0eb9a5d955c99d91ee7ff739701eeaba7cb95192d524b6f0eec4f060ab9d37d",
+    "expires": 1795305279,
+    "issued_at": 1792716879,
     "metadata": {
      "category": "data-analysis",
      "id": "vool-team/chart-picker",
@@ -685,6 +685,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -703,16 +713,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -721,16 +721,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "2lZyegTNfEi0lA+GGi6ZdbMeoYuAIft0IZf0r8GJXV8SKBXR7TxfHPdkgHY8ZpF8Q06HDDtgm28INMjpUzRCCQ=="
+     "sig": "09sisfVR2/0v+cIqZ60BX/X2abr9I5p9iXr89qGSvTbddGwvL8WQL5+I878JaJYv/tMWO33JiuucxIof7nUEDA=="
     }
    ],
    "signed": {
     "artifact_length": 8193,
     "artifact_sha256": "7b6bf3a085e1056e27b479b80a8a6aabff8a73c05cc4f035de39ce8974d4e37b",
     "dependencies": {},
-    "evidence_sha256": "167033abf9ff652fafe88edfcbaae6b5f170ebffdb0a7bfff6ea8d556a606b13",
-    "expires": 1795278977,
-    "issued_at": 1792690577,
+    "evidence_sha256": "4beecbe50e31b44864e411130e64fca86475a7edc004c837dc88fa80e35864c4",
+    "expires": 1795305279,
+    "issued_at": 1792716879,
     "metadata": {
      "category": "personal-home",
      "id": "vool-team/chore-rota",
@@ -763,6 +763,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -781,16 +791,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -799,16 +799,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "dBxE5ZrEv8megsb5MUoDKrVFVSJB/qk12qquVxYHSJeDWvSColh/oJsBXCtSZiOV9CJ3d49yrgjonDD0EW58DQ=="
+     "sig": "ZCWsJpKgZz3lpjKmMzA+PT0GEm6FO0uxfs4nStog6AUCAzweg5n8s7J9emx42DjSyQMDQnQjy9jzQRLhj79LBA=="
     }
    ],
    "signed": {
     "artifact_length": 8402,
     "artifact_sha256": "c14c4cddb1c65776b9c26d75724eee3cf7478b0c02485eb96b15ab7922619975",
     "dependencies": {},
-    "evidence_sha256": "963edc07b5a4c30c0da70957a79c672a2c8dfde8288ab68d70d39747cba8d785",
-    "expires": 1795278980,
-    "issued_at": 1792690580,
+    "evidence_sha256": "8f3133c36e9b696ba932ba69dde457d5d3a2d09aabdda076f8300e6b995ad2d9",
+    "expires": 1795305280,
+    "issued_at": 1792716880,
     "metadata": {
      "category": "research-learning",
      "id": "vool-team/claim-check",
@@ -841,6 +841,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -859,16 +869,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -877,16 +877,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "kkQkxgcsYuvBnPxBg4gSXfLu8jYdZ6MY/UyK9vRip6rrc7KeVRSbu5jI0JPvKoGrgVMDQrErlTskxijGG4EgCA=="
+     "sig": "WfZGfcpw5AiZXvolHzqzCiMIdYbIpXLBJluPqjh6xSljTyS2O+hVs48RVP/adYyP8iu/Y9lcfJ7Ty2RzeX0RBQ=="
     }
    ],
    "signed": {
     "artifact_length": 7812,
     "artifact_sha256": "2e105291142568b5bafa24646ba378e4f211f5b90984114ca439443a78678f96",
     "dependencies": {},
-    "evidence_sha256": "cbeddcd79946a6b3a12c0837bb72f28a9cbc981256ebfff20e13534e25182724",
-    "expires": 1795278984,
-    "issued_at": 1792690584,
+    "evidence_sha256": "67a8302392e83436d9ffbb834110dc65cf2c1b8cd25893bfb0e40027feed1fe9",
+    "expires": 1795305280,
+    "issued_at": 1792716880,
     "metadata": {
      "category": "coding",
      "id": "vool-team/code-review-notes",
@@ -919,6 +919,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -937,16 +947,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -955,16 +955,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "LNxtDQCPlnmjDyJ2KRBKCnsqKP7miHSbbxxmz0qaxRjaq9iKlNR52whkCOLOmEHOJBaJ3p+txloSem2baguRBg=="
+     "sig": "tlq62e4qH/9Z4APWU/TEY69d0QDWOKi1Az9cT9W18+gT/gc4rEIsavl3fg+/oN2YS80NASjiNXZMdIjmJ9v3DA=="
     }
    ],
    "signed": {
     "artifact_length": 8022,
     "artifact_sha256": "f06ca8a6cc0bedbcda2bb289a8e96994093ad3ef0715055d2ab8a9c38f3662ce",
     "dependencies": {},
-    "evidence_sha256": "379bc30840d54f01a636029742f6b9dd588bc22cf5b91e8ec03e8c7ed28f0d8b",
-    "expires": 1795278989,
-    "issued_at": 1792690589,
+    "evidence_sha256": "aa75acd5894285e70a708c1807f16ba542a1521591b2400891895a5515153708",
+    "expires": 1795305280,
+    "issued_at": 1792716880,
     "metadata": {
      "category": "automation",
      "id": "vool-team/command-explainer",
@@ -1000,6 +1000,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -1018,16 +1028,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -1036,16 +1036,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "ixphk/WEmGR4ps3dEEGo9+GMYNLmZbFdQ+5ESQAFkdqE7SbbIEvUfUSm066kIovCaxV+gCl24yQ7WXC7vof5CA=="
+     "sig": "FQy4ZD2LWkvbse/9jWwjrFL0YuGylODR3Z3gp3AJRTaOxcBiJKhDKT2ScgxoPQrde+3j6H2ZE45iHH36ck9cCg=="
     }
    ],
    "signed": {
     "artifact_length": 9078,
     "artifact_sha256": "c4c86275ccd097ab6d19c59ece47b98a0739e6e1b52a3a85897ee3e6df3824de",
     "dependencies": {},
-    "evidence_sha256": "29ccfeeec8c32d5f0a09554d587ef098b0bfe9982a7d687bf7f969ed57f35dea",
-    "expires": 1795278993,
-    "issued_at": 1792690593,
+    "evidence_sha256": "8f55772c0668684155ba94fc8216572ebbeb134710a809d7d5c123b7dd05b6a6",
+    "expires": 1795305280,
+    "issued_at": 1792716880,
     "metadata": {
      "category": "business",
      "id": "vool-team/contract-summary",
@@ -1081,6 +1081,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -1099,16 +1109,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -1117,16 +1117,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "/NnEHTBMCCOnqeEr4uMCIJ1wWkjbS7gvBljwn/rKk7FEt6Ye4lKRSFFTfmTkalrrtdgS9mAS6l3L6qdBDjXXAQ=="
+     "sig": "4SwvOXiGk92Ll+kZVOtNrQX99w48Ni0bhBPBr2kcE7gI53Ex4DpDmhCDnJDNizcS1IFrY538jptDJrtJTFRVAw=="
     }
    ],
    "signed": {
     "artifact_length": 8577,
     "artifact_sha256": "b001ce0ae5c0f3a1db37fe356c0bdcf04d91b7ab375f01a33077b738321db09c",
     "dependencies": {},
-    "evidence_sha256": "46f4edf005224f1320f7c7d053a35df9d1769441ef72ffbf7951bc1e879579a0",
-    "expires": 1795278997,
-    "issued_at": 1792690597,
+    "evidence_sha256": "aa6ecb9af84e32f01f88a361d0f11d1dfaa79ae864d3524ef6b82e3a2d12e6d7",
+    "expires": 1795305281,
+    "issued_at": 1792716881,
     "metadata": {
      "category": "writing",
      "id": "vool-team/cover-letter-writer",
@@ -1159,6 +1159,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -1177,16 +1187,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -1195,16 +1195,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "414r4EY0aEsbRsnFk+KHQV0pC7B8R/xhR4wYrdEqe3TSnt1uq2OCp09UmwasAL9eA9n6hqLP8rMa0ZllSz2WCQ=="
+     "sig": "Bi7febIX4aft5vV5CxnnhjKAqA/fo57846IeiomR575ED0U29RalSbnzQCFV9U0nERP81u3+rByNDa/9Pp2KAQ=="
     }
    ],
    "signed": {
     "artifact_length": 7423,
     "artifact_sha256": "d0c063be43f6c8ec16bf5f369b71372cb29b80846747908ca5fd0b8286e0e9ce",
     "dependencies": {},
-    "evidence_sha256": "56a3fe5c15409f3634c214ecffbc282a0a3e12b539c1b85215f79c85d222c1ed",
-    "expires": 1795279001,
-    "issued_at": 1792690601,
+    "evidence_sha256": "1e453e05f9f03c5c06ba04e9ceb1b7a93acd97680a3eb01ee8d416a215d40290",
+    "expires": 1795305281,
+    "issued_at": 1792716881,
     "metadata": {
      "category": "business",
      "id": "vool-team/customer-reply",
@@ -1237,6 +1237,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -1255,16 +1265,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -1273,16 +1273,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "XFKXPITOOF2Wo6GHHo1Op/4TjK9OW1PJtUsOdN/8HGd+W6St4E1i9IgUZb9PQxkFE6hISSdMslvb1Bbe7EEyCA=="
+     "sig": "OBnxsXvulEEEizlHhzHfg1C05JJpcseqcHTFeWwiHjJYJE048jymJPyBIYgbhRfq6imY04fu7iu1ZWiGSEEdDw=="
     }
    ],
    "signed": {
     "artifact_length": 9256,
     "artifact_sha256": "b79dc4918ca557c70ddcf709523599a3f3bffafab9c9fc3f6cc16dab6638a050",
     "dependencies": {},
-    "evidence_sha256": "7a5024aa5155aec93ea62b0206b6ccb9e8d958225edfd9fe8b11b8bc28c05e09",
-    "expires": 1795279005,
-    "issued_at": 1792690605,
+    "evidence_sha256": "271ce6edcf770e58d2e64b7b18d2d2a60f9bce589dc677258599632f9f003e43",
+    "expires": 1795305281,
+    "issued_at": 1792716881,
     "metadata": {
      "category": "writing",
      "id": "vool-team/cv-tailor",
@@ -1315,6 +1315,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -1333,16 +1343,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -1351,16 +1351,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "6+yRs1SZ8QC9A7zGce+njNMsWkcnpJcObOOgifQGlgj1OHcluBqHgnbcY3H+InvlyV/XX28gpYENLbKaJDwUBA=="
+     "sig": "IawpGym+nW0gYetKuiv903u6Q3i4bPT21IJcRX+MpztHIlx7a64G5hTfQwE4oRvWaleYqKJFEWLbOM3rzS+CAA=="
     }
    ],
    "signed": {
     "artifact_length": 8533,
     "artifact_sha256": "8800678e4c88bbf55e8c3ada340d6b6a4679c1b0a8fa7db118785887d4902c8d",
     "dependencies": {},
-    "evidence_sha256": "341b1a5d57c8fd43b3b6fddea3af2d818aecf586c43b9069ccc94dc0af28ac42",
-    "expires": 1795279009,
-    "issued_at": 1792690609,
+    "evidence_sha256": "baf3954bae25db99c3e193f849d52bc269d1f30e7d03d3a1824c1726bba44d5b",
+    "expires": 1795305281,
+    "issued_at": 1792716881,
     "metadata": {
      "category": "data-analysis",
      "id": "vool-team/data-cleanup-plan",
@@ -1393,6 +1393,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -1411,16 +1421,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -1429,16 +1429,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "d9VJWK42NIMBXKNTRWeQ3L5722oTBWp51tWpo0ZYWhHlzOt+bE5YQh7bUeGPoHhTp5gzTQMxPaXJMSmGZS8QDA=="
+     "sig": "+VN7r5eQNWD6P3VjSDvxCnbzejFirdgqeFtAxIHdneIRcpky3VjS/b8NxpsregKEv0ONs647lGQanMocdJoKAQ=="
     }
    ],
    "signed": {
     "artifact_length": 7942,
     "artifact_sha256": "5ddcda62f0646c90ec7791a06b5b43eac3a74f82893268bb921dce2de3cb3164",
     "dependencies": {},
-    "evidence_sha256": "19eb177419b9fe412d638b5febd540ff62407b65fbd244f982ef95cc582f25d1",
-    "expires": 1795279013,
-    "issued_at": 1792690613,
+    "evidence_sha256": "7a51323f0b4fc92c4d6d790dad5688ae8ab022d0bbf5f90e456584eb06e6491d",
+    "expires": 1795305282,
+    "issued_at": 1792716882,
     "metadata": {
      "category": "writing",
      "id": "vool-team/email-reply",
@@ -1473,6 +1473,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -1491,16 +1501,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -1509,16 +1509,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "JPJ64MPkPH6ZJDyt5QvPYosAYE8CLGUmBicgvCxdy2VWjEi26W21/OqORn5LChvjbOXqxthkl6d0KxOR3H13Cw=="
+     "sig": "CLQEjDK1RBF0oOTS6w9IsswTc1ifiCSBov9t3RqLn3u7OAfokcCiGJfFRvMqtNPBcDu6To0xlOvmv4ugl0EJAw=="
     }
    ],
    "signed": {
     "artifact_length": 8344,
     "artifact_sha256": "1f39657bc6a9d053e25d4bafb29cd9b429fd7f6b6fe37667dcc4e103cffccb70",
     "dependencies": {},
-    "evidence_sha256": "242b4ba89b4cd1686c3d631fec4fdfbdc5d0f056ac190687d651979e18d3306b",
-    "expires": 1795279017,
-    "issued_at": 1792690617,
+    "evidence_sha256": "11ffaed063d97a93e2975c3bc0c9c2a8398a7bfd37a8530d8a46cb45c12f6f9a",
+    "expires": 1795305282,
+    "issued_at": 1792716882,
     "metadata": {
      "category": "automation",
      "id": "vool-team/folder-tidy-plan",
@@ -1553,6 +1553,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -1571,16 +1581,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -1589,16 +1589,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "4edIj7OH3Ygeehffj9VU7YmMMPgzin0nOc7KKW0wDQsYEeTNyJsU6agpW+y0EaYwiZrW4V9HqM+YMFwqmouxDQ=="
+     "sig": "LZVJxTJtrloMSfIABkw6rpWUbsAVkoXPj45cDpjV5z42QCKVGLfvfEyQxptJ36HmJwn3Q7gSCcjwSjz4a+izBA=="
     }
    ],
    "signed": {
     "artifact_length": 8421,
     "artifact_sha256": "484731fc1d0c70aea572ed07264ade39b514ef765a374a42fb65399c4f3edd45",
     "dependencies": {},
-    "evidence_sha256": "ffa851bf7f747a0d0625b2c843bd41b2ebe4e9610a516ab3aa23b5b2ac048950",
-    "expires": 1795279159,
-    "issued_at": 1792690759,
+    "evidence_sha256": "30ebc087aafcda14f7d9c4d8289d1ed54c6a44be7f6ed48d19bdfb7336253479",
+    "expires": 1795305282,
+    "issued_at": 1792716882,
     "metadata": {
      "category": "business",
      "id": "vool-team/follow-up-planner",
@@ -1631,6 +1631,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -1649,16 +1659,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -1667,16 +1667,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "yI/nx/UEh5NLQV4TVgO4HWxtjGoW+sKp1AAmaoNojHeTsQLftnlJfjckOHRNoq3uBjnWLrb9vWuOieYEvtdcAw=="
+     "sig": "4yBAuSC/Tw5wqn2x6CG2dl2w3odosT3R7odPAtQXNad2+m9BgG+iQgSDnZMSzQ7+KKqm1Uz6lyjwjNdeOwIYDg=="
     }
    ],
    "signed": {
     "artifact_length": 9431,
     "artifact_sha256": "7ab65b24e308b611498b5438bcad85b234b0761000ce5adcdb7f48c53127e2e1",
     "dependencies": {},
-    "evidence_sha256": "63be59fad781175365bd3c3fbea675bb9d30e698ebb16eb8d889cc3b11ef8627",
-    "expires": 1795279164,
-    "issued_at": 1792690764,
+    "evidence_sha256": "22ea6ebbb480c848f61ef5f3b2fc585c2a07c9e762c4f089fabc28781eb1b2a5",
+    "expires": 1795305282,
+    "issued_at": 1792716882,
     "metadata": {
      "category": "personal-home",
      "id": "vool-team/formal-request-letter",
@@ -1711,6 +1711,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -1729,16 +1739,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -1747,16 +1747,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "azgDWNw2S+Fz1SGqW6j4QK+DkyzVXUYUDVDRjc6cx2nk/URgTAY2KplCkKBFR5E7FnS1mwY1zJ+Km/Q9MrvtAg=="
+     "sig": "2aH+Kp8zQWvi2WdJHnhVHINhhDzJghSGJ0z7vkA9fsRk47Yg051XWJp8hz2lADteQelKHKtINJYDQ+4gvYisDg=="
     }
    ],
    "signed": {
     "artifact_length": 8158,
     "artifact_sha256": "5fb3d6ebb6d446ce160e8d8d05c68b8b3c8d221d129e703471b26692d303a39a",
     "dependencies": {},
-    "evidence_sha256": "d8db8051bfe63a12c7ec102454c328a8ce817ab54be3a8b2f7bcdb8401ea2b49",
-    "expires": 1795279169,
-    "issued_at": 1792690769,
+    "evidence_sha256": "b8f5e43ac6251d193707e5c306a4afbed7b49bc93a7396f7ced6ba263c6114e8",
+    "expires": 1795305283,
+    "issued_at": 1792716883,
     "metadata": {
      "category": "data-analysis",
      "id": "vool-team/formula-helper",
@@ -1789,6 +1789,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -1807,16 +1817,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -1825,16 +1825,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "Z4j5sfO05CJmfTs9d0JrcbTbQVCImjmu2IChbUx9nGkiWrf5RvJwmUKI0Pw+VWyn59rTGAE8FqYA9szIJtAPAQ=="
+     "sig": "0cm+DBSq+UTmdxM3O5Aa+5Gq89t0NwEHtuuIJnj0EZFIJoxTjBLxOWwxBiVpXGWjFarQjY9RIetuFyJXKxdKBA=="
     }
    ],
    "signed": {
     "artifact_length": 10648,
     "artifact_sha256": "18426523e24609e2b766fe0f285f9caabc26db18484a985efddd3f9c531fb16f",
     "dependencies": {},
-    "evidence_sha256": "f7924c25ea6903d3cf5ab0e20621900d762795b0f1ed5ee6e1d2883b8eb513ca",
-    "expires": 1795279174,
-    "issued_at": 1792690774,
+    "evidence_sha256": "680c833d84079fb5cf9d3e88a303d3f6579c2bcfbae60f26fe6447d6365e55b6",
+    "expires": 1795305283,
+    "issued_at": 1792716883,
     "metadata": {
      "category": "privacy-security",
      "id": "vool-team/hacked-account-steps",
@@ -1869,6 +1869,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -1887,16 +1897,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -1905,16 +1905,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "7UNkzza6wCgTWnSA4EKv2D+g55owOXOodyVl92Rruz67UbsUtfOs0/D5JmZ68s8xdJolRny72IBQohPodBQHAQ=="
+     "sig": "Sm1jlvJ+10rbdJz9v106siAF6AveXw933Qdhi2Gie+sIGJsejq+5b6G5xEkUxqqa2CGtcPQS07l5MsTMPJYyCA=="
     }
    ],
    "signed": {
     "artifact_length": 8183,
     "artifact_sha256": "1e539e44a9cdf9e2ac5bb804b89e2208feefa79c396e145b8c739b4a438b2046",
     "dependencies": {},
-    "evidence_sha256": "527461bfcb6d710c0c06163bf96f8209923e932fa8de1fcfc1902905aee690a5",
-    "expires": 1795279178,
-    "issued_at": 1792690778,
+    "evidence_sha256": "008554a6b21af93a49fc0d206a73bb78e2844599db2cc8bb27b5fdaeda67acdb",
+    "expires": 1795305283,
+    "issued_at": 1792716883,
     "metadata": {
      "category": "creative",
      "id": "vool-team/image-prompt-builder",
@@ -1947,6 +1947,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -1965,16 +1975,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -1983,16 +1983,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "4vEULMfJxtzBHuftm2XPwGZeBGJu8J8qjNSEtIylhY4LOxu8WTecs/9rXGFKFvqdmcRLv+L6/UEyVzQ1JKICCw=="
+     "sig": "K9uaJ1VA4bmRyKiTGKRx7dLICUUOh7iMawWXNer8n8RbY5Hh9/OTtfWqZRtRKnTAjkaPSDgOFgb76Zcv3PQLBg=="
     }
    ],
    "signed": {
     "artifact_length": 9319,
     "artifact_sha256": "127efa2e0d7fdb14d50545f3a146558c4e5a73161d8d98c7b27a5b4c2464985a",
     "dependencies": {},
-    "evidence_sha256": "082dfbedaf3ae00021d0ce409bc4e3d52c80e0c8690282d5e64f7e7ffb7b0c74",
-    "expires": 1795279181,
-    "issued_at": 1792690781,
+    "evidence_sha256": "7dc82c48c66b1bc59d8afa41e347de2c69076f5f8fdc900a91aeea1e03b770d7",
+    "expires": 1795305283,
+    "issued_at": 1792716883,
     "metadata": {
      "category": "money-crypto",
      "id": "vool-team/invoice-writer",
@@ -2028,6 +2028,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -2046,16 +2056,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -2064,16 +2064,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "7uqkTHLmEDFjvgRQpo8tQJR7if16sxnAcLuYpEbd50yunY0WlTtRUnDIDuID06AdCJZMeCMR7UjPdqWcOifyCw=="
+     "sig": "xSfhTNO47mGo0w24JaHFVwfY6V/nyHm76tkKPKl+VEsNOElQXcup+a/oKiu/Uz8mXMfhYUkcro4EAZ32CxSLCQ=="
     }
    ],
    "signed": {
     "artifact_length": 8281,
     "artifact_sha256": "425f693c168796f9570f6466916cd767424ff770a30da13bb9ce17f94c46bf9e",
     "dependencies": {},
-    "evidence_sha256": "59163f45f8677690e6331a7a61a2325b01343fc697bf887224f7d1d166d2e4cb",
-    "expires": 1795279185,
-    "issued_at": 1792690785,
+    "evidence_sha256": "350f04b926288fb4a8dca2a182b00f50778fbbe39332f986f928b14c80c3dee6",
+    "expires": 1795305283,
+    "issued_at": 1792716883,
     "metadata": {
      "category": "business",
      "id": "vool-team/job-post-writer",
@@ -2106,6 +2106,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -2124,16 +2134,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -2142,16 +2142,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "48pC6/kv25ipA8+TasnviUmwYfCUZCH5T5ByDrBWvC4562+oFyK3Sbyc6zJJ9q8S1BjAHICPgGwrGF3+fsrLDg=="
+     "sig": "z7BnNgkhfbLuMFuQzyMBTzRKweG5STKV2Up4g8e4RrfVxznqMW2hTz+1eEAOzQ3hRiXM3pPtWZ9PYcayY+0xAA=="
     }
    ],
    "signed": {
     "artifact_length": 8561,
     "artifact_sha256": "ba48f48d05fe37e03441fdad87ca870ca0272eb1411ad8044a155ff661ed5d2c",
     "dependencies": {},
-    "evidence_sha256": "a15f62e3590251218feb11e0cb8a520848f8abadedb97dab4b221a9d57b5068c",
-    "expires": 1795279191,
-    "issued_at": 1792690791,
+    "evidence_sha256": "e7a40ddafb7d702bd199d58bb96b9b15ebe7059a5a51715fc139b162c556f816",
+    "expires": 1795305284,
+    "issued_at": 1792716884,
     "metadata": {
      "category": "personal-home",
      "id": "vool-team/meal-plan-from-pantry",
@@ -2184,6 +2184,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -2202,16 +2212,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -2220,16 +2220,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "9vY1BOShy6V6q81VfkScxnha2GXykw8mggH7YaxLxYSaoJT3drn6zo4aKcIZkgSFmSt942pboWtF6tSQS4clCg=="
+     "sig": "nUGBPNMl5fRovhjYTJDoog1XEMk0RJtgA42P7t5Sm5m7Q33uKPKGBkfe1plgoVGprWLqSsK8PX4o+4IyE1qODw=="
     }
    ],
    "signed": {
     "artifact_length": 7313,
     "artifact_sha256": "21051b1ca353de3f9f0a6841bda0ad06e107f1502ffb7e9118addc0ec1adcc66",
     "dependencies": {},
-    "evidence_sha256": "12c87b4add926d635066553b22aa41762af6950fd759161754e6789998853e5e",
-    "expires": 1795279196,
-    "issued_at": 1792690796,
+    "evidence_sha256": "0aceacaffe6bf6ce1088463b5aaa1b0d888f4908a34d4de9e393f05dbdc5f43f",
+    "expires": 1795305284,
+    "issued_at": 1792716884,
     "metadata": {
      "category": "productivity",
      "id": "vool-team/meeting-agenda",
@@ -2262,6 +2262,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -2280,16 +2290,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -2298,16 +2298,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "eBUZn0BLsLNxX7vuZA/etjvhI3XZBRUgv2V121hDtqPF64b0XjChWXyJL5totjLx880whnAsv5dIchKXG5X1CQ=="
+     "sig": "fZo5BHVxPbC4+zEPDa367cxwkoqQQOR/2mDEZ6FypPMtUELdfmo5iwhQO1Qyn6UzA1x5qEhVB8H9rkFdURJ7DQ=="
     }
    ],
    "signed": {
     "artifact_length": 7955,
     "artifact_sha256": "beb37de8f7457a3f0ba64ab8b47e6d3c01f0de9ea00779114a56f2bbafdf2890",
     "dependencies": {},
-    "evidence_sha256": "d7f78faba0bef5050830b3eff0f89e468764a4419fb7f8616bba3cf8906c58e0",
-    "expires": 1795279201,
-    "issued_at": 1792690801,
+    "evidence_sha256": "1df566e16d9947ae5beeb0be326ff583c362291670397ba3e6ce4b0a8379cfb4",
+    "expires": 1795305284,
+    "issued_at": 1792716884,
     "metadata": {
      "category": "writing",
      "id": "vool-team/newsletter-writer",
@@ -2340,6 +2340,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -2358,16 +2368,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -2376,16 +2376,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "pByfd5VMEk9kJ5J7sMDKUiVAIbMzxSXC74twqR0RKfBRiLuWeVeATr3MF5Vn2JcZDf6+yfPcxPgNan5zooaxDg=="
+     "sig": "bhJR0Bg2KAV8LVXcO3uvuR+18EEQvMvdXacsLSPdgmb9nGx1h1oGCTlOyG2i2q3nLq1HsrCNdJXcgB1QkS7BAA=="
     }
    ],
    "signed": {
     "artifact_length": 7131,
     "artifact_sha256": "db849a997314178110ed08efd40709bbcdcbac13fca60cd95b34162d6370b33b",
     "dependencies": {},
-    "evidence_sha256": "fe68b807e706a204fb226a8459d0cdf7e98fc49cf1d55134149b7b91ebd0a680",
-    "expires": 1795279205,
-    "issued_at": 1792690805,
+    "evidence_sha256": "9ed5143b783e1384cd663b2a8817f3c806d158831b6f63bf4bc4495dee83ae3e",
+    "expires": 1795305284,
+    "issued_at": 1792716884,
     "metadata": {
      "category": "productivity",
      "id": "vool-team/notes-to-actions",
@@ -2418,6 +2418,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -2436,16 +2446,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -2454,16 +2454,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "4iB4pdBNW9nHHRX5NqC2lNa7TCeEj6p0LLsFfJKAB4/v974laFCjl8egIZcWw8WCcilBVcXK0va1G3CEsMOMCw=="
+     "sig": "bKDvjnwxndDpye+QLIKG0era11aVR7IW7J8PJt4JKwBnNiRIcXzCgU/lJQhxy93QHX4dl/m1YeCBPCLrNHxKBg=="
     }
    ],
    "signed": {
     "artifact_length": 7930,
     "artifact_sha256": "24b2023310a291abc60f792dc36d3b439fd353174621bd0e914f3d6e16f91552",
     "dependencies": {},
-    "evidence_sha256": "b61f60a3910a01258ec5fc3543e166347f317921117c32ed8df43b574283fa44",
-    "expires": 1795279210,
-    "issued_at": 1792690810,
+    "evidence_sha256": "4d76af64eaecc8da58e04f73ece7f71da218481aec1a45ac82568fe32f1741d6",
+    "expires": 1795305285,
+    "issued_at": 1792716885,
     "metadata": {
      "category": "business",
      "id": "vool-team/outreach-writer",
@@ -2496,6 +2496,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -2514,16 +2524,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -2532,16 +2532,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "jY52cvKenMTj5kL9lLmUf+nsOqCXEIAP5aPnRmlvDTbVsF4uiah39KCd/4UGTJxwxet9CQ7N78+oD0gM6feACg=="
+     "sig": "HtZ6305QcDNxvCMtnPmFsNKjCvih5b34pZcQksDLrj4ZCTKMUKULcVmj5fchuysMckam0iCr+oLIsbJVUfzsBQ=="
     }
    ],
    "signed": {
     "artifact_length": 8456,
     "artifact_sha256": "8cb3e20908b5364f0c9f9243bfc62704dd4aea0f32228dd7d44ac5af6ca3a00c",
     "dependencies": {},
-    "evidence_sha256": "2b29b2c8b9ca9f3439b788fd9e12adde30fef80e265f1e17aee8acc2ad22f302",
-    "expires": 1795279214,
-    "issued_at": 1792690814,
+    "evidence_sha256": "ec1fa1b2e3f519d6d2d9b6ad8e2998b913a20580fa31898e2387fdf5a6554db3",
+    "expires": 1795305285,
+    "issued_at": 1792716885,
     "metadata": {
      "category": "research-learning",
      "id": "vool-team/plain-explainer",
@@ -2574,6 +2574,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -2592,16 +2602,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -2610,16 +2610,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "t0ffZq5oIPJaxqA0ahclXuZ3YWLBEhm4uMLnb5Q7kkzKGKrCCsnxNQVHYpzsgKOpH2TbZPlVFbPPsJnvjdyNDw=="
+     "sig": "NuFcFWyoFRUqlOJYAW9H7okg1GnASE+34MFhIxPHcd9nGtqSkJPYyFDrLwwUVrf/P4J+n180c5CLyM9v0IShDQ=="
     }
    ],
    "signed": {
     "artifact_length": 8296,
     "artifact_sha256": "8c2927e28c7c0ed0fa46224d29c7f91086568868849ddec1d5321ee38f4e6b4d",
     "dependencies": {},
-    "evidence_sha256": "0c9aedd0afc5e1a8bf71afe6ce7f304bd833cabd8cefa82c61976f4894f9b23a",
-    "expires": 1795279219,
-    "issued_at": 1792690819,
+    "evidence_sha256": "b2913412fc93a0c6c9230ef6fdf0ce3ea81c6232feeb765446251d408726217d",
+    "expires": 1795305285,
+    "issued_at": 1792716885,
     "metadata": {
      "category": "money-crypto",
      "id": "vool-team/price-data-reader",
@@ -2654,6 +2654,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -2672,16 +2682,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -2690,16 +2690,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "/G4WfQHOwHvKpsPPdNlyULaRl/ITMWKtNw2+sY5O8AtOIfyXjI1vfmWBBZYy79nN/Mt4n/hR3tiO85MODtdSCw=="
+     "sig": "wT2TnRq1f1mO6OMRvSDscBC8uW+3X4DgcB62Y6bsxEywulFwK1u5qmgVP9kG8NUkVBvM0IAU+5vpAFAZn2msBQ=="
     }
    ],
    "signed": {
     "artifact_length": 9019,
     "artifact_sha256": "b8254d5f423048dd4b9642b92524426e024f3df8eff3a096f50c5c448d82fba0",
     "dependencies": {},
-    "evidence_sha256": "60951d2b80c775d19bd90c06ddb9451578e437c21744c602ac1fb42bd2188440",
-    "expires": 1795279223,
-    "issued_at": 1792690823,
+    "evidence_sha256": "0069b911e6c22c42bb82d60e14cc6006429c088e64a84d0ad5a325bb3b87eed2",
+    "expires": 1795305285,
+    "issued_at": 1792716885,
     "metadata": {
      "category": "privacy-security",
      "id": "vool-team/privacy-checkup",
@@ -2734,6 +2734,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -2752,16 +2762,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -2770,16 +2770,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "dOsI1uH59WRqDY0yz8RFYIfFdZHZiLPOi1aUkujTM4VeNuPnMk5BytTwWQQzB+IO49La25noyZRXnGxA20mICw=="
+     "sig": "EyQnOvlA4nXKmz4smraRayA2+fXQyU1MkWRhA5TumWgivuyF+FAmxSMjpcKIvpkenEVKoxghe73wqqPdBIFGDg=="
     }
    ],
    "signed": {
     "artifact_length": 7711,
     "artifact_sha256": "d7b1e99e28bcb61e4fcaa4a2f622eb9da2b091d4c630d6eae13345a7dec71843",
     "dependencies": {},
-    "evidence_sha256": "2954b0978ea00cbcf95ba3bcd090a545b9cf1c60239ec73f8dc75ba9f32a56fc",
-    "expires": 1795279227,
-    "issued_at": 1792690827,
+    "evidence_sha256": "69f1f1bb4364c12510741ff0cda9229a643fffcf9a1f8f0096e6cb93cb4fbe98",
+    "expires": 1795305286,
+    "issued_at": 1792716886,
     "metadata": {
      "category": "writing",
      "id": "vool-team/proofread-plain",
@@ -2812,6 +2812,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -2830,16 +2840,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -2848,16 +2848,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "se2F1sGCjXvr+fcl1StninOqJLxhBTZOnH9WDUncfAW6/oQa9bmf+hE2GO6/kbYh3lRpPVQtHsMHzmTMsq7gCg=="
+     "sig": "vJAO2wO9HXDZs6YO2FSKNAozS5rGq0WhZBrgpo0s2dUlRbqh3vMZBsAIDgN97cdzAeesdRgX2pgva585xzZbBg=="
     }
    ],
    "signed": {
     "artifact_length": 7698,
     "artifact_sha256": "e199f398913feb76636ebf4137598d197a50fbe2f6f7a9813de816d15c3f3305",
     "dependencies": {},
-    "evidence_sha256": "44db40f5ecb03ebcea7e9b0dbbb5fb0a99618eda8d1fb8d8059172cde876d94d",
-    "expires": 1795279231,
-    "issued_at": 1792690831,
+    "evidence_sha256": "8282da1c8d09add46ea0f29a889af270b75cb0859c5ff0f8d9721e7b0df33f5b",
+    "expires": 1795305286,
+    "issued_at": 1792716886,
     "metadata": {
      "category": "coding",
      "id": "vool-team/readme-writer",
@@ -2890,6 +2890,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -2908,16 +2918,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -2926,16 +2926,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "X5GHOZORNMG74SZUq1i8Ya1HiIaXIokoE6mzSxRgaunMh3MKUYnc9hHXGLkXh/D/9Cb9WKrjyyFzTT1xEcvmBg=="
+     "sig": "mbXpCjYPqV2B7hXAiIHfSoFzDtRmleEYAJB/AcfquIFl3EU/H2jKAD3/oHsnn/EPgZkSkspvgwfGred1ekazDA=="
     }
    ],
    "signed": {
     "artifact_length": 8568,
     "artifact_sha256": "7d2c5c3964617d5e7d1f5fc31fd5deb6ff79d9d8eac79e8c23e348d1c03d3df6",
     "dependencies": {},
-    "evidence_sha256": "2f860825e5afefd57d5d69fa3eb108c3874d0ebbe0f6bce9264f653565374c94",
-    "expires": 1795279234,
-    "issued_at": 1792690834,
+    "evidence_sha256": "4cf57c60f07cff63bde1e6d9e776562d14e6fb548d88f31b47779a68bb8beed1",
+    "expires": 1795305286,
+    "issued_at": 1792716886,
     "metadata": {
      "category": "money-crypto",
      "id": "vool-team/receipt-organizer",
@@ -2970,6 +2970,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -2988,16 +2998,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -3006,16 +3006,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "vBXbyZ+1Upji00oqaCCPLM8QyGgOZixbRgPliryObqab38/WwRY8gn+gEF3Q+4OouHjYL7rX45OS56gLIm1tCQ=="
+     "sig": "lLo5i+QXl7ouICBytv+nV3vvGjkTObJG3prQjhCbgc0Xhhh3LJ2BtdftCGVWiXzPe95B+WxachMwNU9RC1+xCA=="
     }
    ],
    "signed": {
     "artifact_length": 8717,
     "artifact_sha256": "4866bc00e9078c4b8fa697a5fc15c93bacb4a3202faa8f59b3ca79ccab7728fb",
     "dependencies": {},
-    "evidence_sha256": "d4d863caf9be7cb3f1e4038766653b9a2524e03c822f24de17dedf86d3ce3ac6",
-    "expires": 1795279238,
-    "issued_at": 1792690838,
+    "evidence_sha256": "66e80abfbfff17d35e5d88594dd20f9d1cdc952f08a6b20e66095f31aaaafe79",
+    "expires": 1795305286,
+    "issued_at": 1792716886,
     "metadata": {
      "category": "privacy-security",
      "id": "vool-team/redact-before-sharing",
@@ -3048,6 +3048,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -3066,16 +3076,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -3084,16 +3084,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "eCznSrmiXsd17nrKi4hfvRdgzKJUbHKBJxYZz2MBcIVVaHNIhzCp1qBIfiJW83Lwny0QFGFHoOMyewIHrpQUAg=="
+     "sig": "6tm874CWE1cw1LhIGbs0TFVO/8mMYZEm/aOmIp93/PsBqxB9nlEs/2nN7Gr4AIaj7/CWy57/oyhmEJL47e5CBg=="
     }
    ],
    "signed": {
     "artifact_length": 8092,
     "artifact_sha256": "0fbcb6e5c8c69936d5bd6347861b4967c7be57cb7b634b8521db7b5b131bb777",
     "dependencies": {},
-    "evidence_sha256": "ea4dfecf9a93bdc5a4ceb76dbafa7d0e39be702421cc0d3686a69b4af83ffff3",
-    "expires": 1795279242,
-    "issued_at": 1792690842,
+    "evidence_sha256": "d0d0945352ef474f0f49c40918b503eb6afe084e9ef485e58dd7244a6452cde6",
+    "expires": 1795305287,
+    "issued_at": 1792716887,
     "metadata": {
      "category": "data-analysis",
      "id": "vool-team/report-outline",
@@ -3126,6 +3126,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -3144,16 +3154,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -3162,16 +3162,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "VXeOFn2OqiJUichk//RzIe9YZGWhC6pbpsXrjJ980szGusck/A8RTUhsLN5qDY9BRjVjlF0QoOVlA2Es51VPBw=="
+     "sig": "e6yIk58n6a6bXIjcmzJl5q0FkBaqStoVe7q7DhU9/t0X//Mn7fQQU7G/N0dKkTqw4NZuOGLapCxi4q6neJu5DQ=="
     }
    ],
    "signed": {
     "artifact_length": 10118,
     "artifact_sha256": "a09a4de88f59edc3c1f2cc9ce3ae5c9638c0f22e9b17c77f4f8e0af66c833619",
     "dependencies": {},
-    "evidence_sha256": "c547655496781e59509114a650dc6bea86c72395627ea2f5c56a31b488331eb4",
-    "expires": 1795279362,
-    "issued_at": 1792690962,
+    "evidence_sha256": "1e06e132d58e8e764385df3814ebd76c4bbfa21dca995a803846860299c472c6",
+    "expires": 1795305287,
+    "issued_at": 1792716887,
     "metadata": {
      "category": "personal-home",
      "id": "vool-team/return-refund-helper",
@@ -3204,6 +3204,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -3222,16 +3232,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -3240,16 +3240,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "r/VLa0YpHXiPseq7iRd1DXC79Ub2JXXds5KvZ0UrUyy6RWxMGRFj+3UWdo2HYkN3tJOz8JDKTlsdeokAeP/JDA=="
+     "sig": "uUNk6JCe1nglFUB+obun4+Rlzn79PUQzJnQcfsnbq0rryA9Ly+ADwZOnemwnMAvh8C1PxJGEAoldXKWF261PAw=="
     }
    ],
    "signed": {
     "artifact_length": 10321,
     "artifact_sha256": "e68ee0a6a4db7da324b99c4837c41b4d6954745e921049d771913e595ed9802f",
     "dependencies": {},
-    "evidence_sha256": "ec81e213f3907d349924c4a545fc3d2bb46f027bc98059fba89b65f3279ab8cf",
-    "expires": 1795279366,
-    "issued_at": 1792690966,
+    "evidence_sha256": "8ba652a6a1204fa164282d4bb8cbb4e14f8b0933784521ea71929d54e347a7f0",
+    "expires": 1795305287,
+    "issued_at": 1792716887,
     "metadata": {
      "category": "privacy-security",
      "id": "vool-team/scam-check",
@@ -3285,6 +3285,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -3303,16 +3313,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -3321,16 +3321,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "wvTmQdTxVAYEJj6bGwOmf1LzDyziTuIw1Z1NUSvGcftQBBmGVmo67NHckVB+lvtgkMvku9XJRuMxs+uXyjApCA=="
+     "sig": "ReeUO+lBxVdCNXKlHz4lI9Iezen7IJj8MQrYtKpyfG0NmuLa6WhkvwvBJn4RurnlY2nWqWaWEorXhufFjRmlAA=="
     }
    ],
    "signed": {
     "artifact_length": 8296,
     "artifact_sha256": "1728692a4669468717de65c8d9af8086de0a3d4f8f0de017937fc50f796e445e",
     "dependencies": {},
-    "evidence_sha256": "8f9f74aa92e8e8f5607a261397ac6c9ad055e8bcd5c7ee6eb7b6b21c24370858",
-    "expires": 1795279370,
-    "issued_at": 1792690970,
+    "evidence_sha256": "8128fe61cf23afbd6bb88b110076fb5bc9a6bb44ea79577cfb5079960d6a95b4",
+    "expires": 1795305287,
+    "issued_at": 1792716887,
     "metadata": {
      "category": "creative",
      "id": "vool-team/short-video-script",
@@ -3363,6 +3363,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -3381,16 +3391,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -3399,16 +3399,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "ZuUZIPpYzNuUG8CjrsrKyJI7jXk0cLLy2l0QxP08BauGX5Ftm2XlWGpmL/afjPl1qe0fIxQxHEwE3q9FGqvQCQ=="
+     "sig": "um3YUm6sLlFViWGKXohuqT2ddokA0+iQGSnH3h3RrjVqpwDDOuj+dC3h11H/v7GOz4gfTorXlNM2p41M6dWIDg=="
     }
    ],
    "signed": {
     "artifact_length": 9053,
     "artifact_sha256": "c78cc9f02bba6f8f6d9e2b9a12cb880cf196c5b3db5a344f5dad55fd6c6f4575",
     "dependencies": {},
-    "evidence_sha256": "dae7768df08f972c6bd68ff36014c160a3f7edec2738312e4f0212bde10f9c86",
-    "expires": 1795279374,
-    "issued_at": 1792690974,
+    "evidence_sha256": "69109cbd991ce8f98fb078ad1f85f0d8daf05451d543ed0d7fca01a6dda9e88b",
+    "expires": 1795305287,
+    "issued_at": 1792716887,
     "metadata": {
      "category": "creative",
      "id": "vool-team/slide-design-plan",
@@ -3441,6 +3441,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -3459,16 +3469,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -3477,16 +3477,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "QKRUPjuP0cbVGc+sWe2fK3p3b1l7D/InojH8d1huGLiEsijsFd9fZIyeGlNdIwq4oG6sdEbWxQMSHI9HP8sXBg=="
+     "sig": "88Pn0TI4bpyyIEFHXxa7z41LdHMSaFDkTFNKHBDlS/4OJ1XRs4olTlJx8e50qQXDYvBCD5qPVR61DNmx+s0cAw=="
     }
    ],
    "signed": {
     "artifact_length": 7573,
     "artifact_sha256": "daa5219848899fa82d586f549308c770b68beb6117be5e86d36469cb3b64961a",
     "dependencies": {},
-    "evidence_sha256": "1d2c816f90e2ac507deeccc536f736eb7cf3b3001080e6690e4c7f401e546c30",
-    "expires": 1795279378,
-    "issued_at": 1792690978,
+    "evidence_sha256": "0d0590a37915278831c1fc1eb2266e529cd750313124491bf22dc5f7fcfe6e8e",
+    "expires": 1795305288,
+    "issued_at": 1792716888,
     "metadata": {
      "category": "writing",
      "id": "vool-team/social-post-drafts",
@@ -3519,6 +3519,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -3537,16 +3547,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -3555,16 +3555,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "7I5/JFH4oZlAL4AjQAB7xubuAuVcXL04/pz+hDvCUmS9Vh5Kd0boL/apP6EUAgRz5grANPGDsH3KnuZ02TkFDQ=="
+     "sig": "nXuOYl1ZnSAMTo4lpzBPzcQAmq6Ea0nb4HYnWRilSRzbwowBepWoPMpdrNFZTktELBKIcGpsP/waMbDN3248DA=="
     }
    ],
    "signed": {
     "artifact_length": 8134,
     "artifact_sha256": "de19bde641f7dd743be96473431f0b23082f73b1884ea40401830b3928b46752",
     "dependencies": {},
-    "evidence_sha256": "45f5882b85ecae0bae159fc40af2ddf71e925482d18dcc659f7aa1af683d6c5f",
-    "expires": 1795279382,
-    "issued_at": 1792690982,
+    "evidence_sha256": "f3b472e81c9acd30bb54a3cdbb27a9e6351b8b9e04b0189fa78edc2764431a31",
+    "expires": 1795305288,
+    "issued_at": 1792716888,
     "metadata": {
      "category": "creative",
      "id": "vool-team/song-lyrics-starter",
@@ -3597,6 +3597,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -3615,16 +3625,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -3633,16 +3633,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "BTqHF29Uxh1UH42iMqasG5sDYNDMFOS2pbmpNKrIBkBVZITHQ5iiphyWOK0L7VXHOuZ3iyxvyZSWz/xCTF9YDQ=="
+     "sig": "1nx4F4EGuO8EP8l2KsoBVZZ9JosxZHsYBwdzW0dtxy3vjwlS+v/+dVaE1d97LDOt0XDJ2tB/tH89dl2qSUj7Cw=="
     }
    ],
    "signed": {
     "artifact_length": 8864,
     "artifact_sha256": "8cc07303edd029312c67b0a9c6c3c1a4a71d24e94bdbf18f72f8525b66ec1f90",
     "dependencies": {},
-    "evidence_sha256": "7e299ab2e029af4c8b36451dc835b1e0a9c1309b4d2e275e93ccf50602522714",
-    "expires": 1795279386,
-    "issued_at": 1792690986,
+    "evidence_sha256": "3c5e302af9c2a8d2f2287d15c2be5da482f39a0c82a2a9ea0d1b78cae1d51d39",
+    "expires": 1795305288,
+    "issued_at": 1792716888,
     "metadata": {
      "category": "coding",
      "id": "vool-team/sql-explainer",
@@ -3677,6 +3677,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -3695,16 +3705,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -3713,16 +3713,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "M0ohOAMYWot1FizcgyTRIhsZObvElkci7gBTIxaYNNQ93N70I4Z7KrG7BzzKrH6yaVoG3dt0Lc1fRfQuN9BYDw=="
+     "sig": "6kqnaTvRDYTVJybr0O/TGAH2/fWeRJMz9jFtxlx1JenTP+gWTI+ByMuyq1R6JhEgJ8CkufPCeLQX+ennI0rWDQ=="
     }
    ],
    "signed": {
     "artifact_length": 8114,
     "artifact_sha256": "14b6fdeec02d694c67564238eae9f54ba58d11e2dd67531d7d1d6f2aef60478d",
     "dependencies": {},
-    "evidence_sha256": "d60b35b0ff164728771bf0c10d7523227c18a781e6b35a4fa06d5cd21528e148",
-    "expires": 1795279390,
-    "issued_at": 1792690990,
+    "evidence_sha256": "957cf8a1a10f38650b8fe034f4fb7df90ced9b2f45e2232737177648540c4d42",
+    "expires": 1795305288,
+    "issued_at": 1792716888,
     "metadata": {
      "category": "research-learning",
      "id": "vool-team/study-flashcards",
@@ -3755,6 +3755,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -3773,16 +3783,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -3791,16 +3791,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "QeQ/T8awWQieRiNZorUv5QgdRc0OXJECA2V4k7stq7TsJpccML82CjIHyLG+pwuUSkdvaYUnSpSKpa4mDAprCA=="
+     "sig": "hlusGITTMkO+gNxD2mG2pMQfI87HZMNVBaeCWBhFrPAtY7JkPy8yPoOpmFFSeTdd7rrDKyXDEN14veeRFOQeCQ=="
     }
    ],
    "signed": {
     "artifact_length": 8443,
     "artifact_sha256": "0b1582c46852ca8debef749320590d7b5c2616f1b3d3d60a75d1a18652cc2e89",
     "dependencies": {},
-    "evidence_sha256": "8302e46f4a8aa5f45e0e88b44f75f575da6b331572010d6f442d5b93d1f45b9e",
-    "expires": 1795279395,
-    "issued_at": 1792690995,
+    "evidence_sha256": "9965d362deba4e1b83c2ce520861ae1c0775620a2d0c364054dd79bf70e2790d",
+    "expires": 1795305289,
+    "issued_at": 1792716889,
     "metadata": {
      "category": "money-crypto",
      "id": "vool-team/tax-notes-organizer",
@@ -3835,6 +3835,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -3853,16 +3863,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -3871,16 +3871,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "MMoTn4dZyf6AtqWqO5OJ9rfKeT4wzy6yKJWmjHGUplULWX/iY9bahrlPCT/Yx+jWenvx6luxsMe87OwK30qzBw=="
+     "sig": "DbeAPrpxC4WOoCCtfCbcQTTl+Vt7rPuYS34J/Dt2744eXD++GP65nuL4naDJtuVj25E6uXEqPmrOQLp2r9qYCw=="
     }
    ],
    "signed": {
     "artifact_length": 9622,
     "artifact_sha256": "9ac79c5dee8833c66451f3a6e4efcb9fc39747984e0cbb89a0d6866dc35067ac",
     "dependencies": {},
-    "evidence_sha256": "19b242883062269294801c10410bc722cdf6ecc3f6dd229fdaffe4632ee8cb91",
-    "expires": 1795279398,
-    "issued_at": 1792690998,
+    "evidence_sha256": "a4b4cd4897bd3da784f00e0859bb23d74f1bdeaf78678eb4a095878ee51e9fe8",
+    "expires": 1795305289,
+    "issued_at": 1792716889,
     "metadata": {
      "category": "money-crypto",
      "id": "vool-team/transaction-explainer",
@@ -3918,6 +3918,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -3936,16 +3946,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -3954,16 +3954,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "PpRHeia0Db+EFNAQ5Fj8bY2bPq/d9kC/ArTfSAkRMeZ93r8zFHHG5pG3aLxtdqmNUyAUUay/UdHHFSFzMAYqCw=="
+     "sig": "kJOQpyz61DZECOzCEjHxYXFnJKM1rbDNcHv3AhyyoCa+cqSXZU02MW8OUa2UBFPjzjHNeumgShKBUgTjr3fDDg=="
     }
    ],
    "signed": {
     "artifact_length": 7420,
     "artifact_sha256": "dd83b788802348ff8fb9ec41d37f49de80807aacbed26e56232f493a02752307",
     "dependencies": {},
-    "evidence_sha256": "0dc61551e717fb6d0fa51eeb22d7f780f3631b4f717acfbd5c0d3499888d027e",
-    "expires": 1795279403,
-    "issued_at": 1792691003,
+    "evidence_sha256": "fc9ac88ce5cf7124a6aa455e93b23b8f2e97cab8d314649d10fd1407b48cbc6b",
+    "expires": 1795305289,
+    "issued_at": 1792716889,
     "metadata": {
      "category": "writing",
      "id": "vool-team/translate-keep-tone",
@@ -3996,6 +3996,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -4014,16 +4024,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -4032,16 +4032,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "ROYzJOp9Qt3Xi0jYJhodnlP2Xk+gXtQiaNqLZtciLod0cLOIzVyJPKIuQF9zOqy4UvuSYq8TzYCQHdDU6pXYBA=="
+     "sig": "JQFTbE7DHGjwbrAFYQpAxSdT6h1wPlnpgcuqTHhBoiavLiclqyoZwPLWtQkUoF1+qz+rn/UqVPJnvqkuT1NSBw=="
     }
    ],
    "signed": {
     "artifact_length": 8689,
     "artifact_sha256": "0c1a45eb64597cc339dd11ee2c3a95751805de8f72c85f95e66dbf56c7fa01e6",
     "dependencies": {},
-    "evidence_sha256": "efde1157a13154bd2b5acdf70385fdb9a093d3ee21e470d6207e596be375f920",
-    "expires": 1795279407,
-    "issued_at": 1792691007,
+    "evidence_sha256": "c33b13b94128e84207b3ed8b43653a6fac3b0fadfe688539b0d2db111baf19bf",
+    "expires": 1795305289,
+    "issued_at": 1792716889,
     "metadata": {
      "category": "personal-home",
      "id": "vool-team/trip-packing-list",
@@ -4074,6 +4074,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -4092,16 +4102,6 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
@@ -4110,16 +4110,16 @@
    "signatures": [
     {
      "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
-     "sig": "jUTOhHww9cOfdtyRpWtGdvKoqh7FSS4O++Y0Rzbox/8pTXCgEoVL270toRUPWXJtxpCqn0+FYIVqmxkOK7HoAg=="
+     "sig": "FNDWdTPK6mQQxPsTpi2o71nI5JuhK8n8rVTQvMKjg4raSpBzJJZ3FlS4gWz8R90c4c1Or8eyqXC1qkAJxkILDQ=="
     }
    ],
    "signed": {
     "artifact_length": 7270,
     "artifact_sha256": "5e8ee45d47f7cbab77998b9447f0ea014357937759bf7389464dc55209f5601f",
     "dependencies": {},
-    "evidence_sha256": "3db852006dfb83e7a5a4956a834b063ebe818bddfd9ed15c42b6ec7ab603a4dc",
-    "expires": 1795279410,
-    "issued_at": 1792691010,
+    "evidence_sha256": "78e4a6de98c87495ed72d6bf346ef2204143ff37183b19c36d6cf1a6e57c8ec7",
+    "expires": 1795305289,
+    "issued_at": 1792716889,
     "metadata": {
      "category": "productivity",
      "id": "vool-team/weekly-plan",
@@ -4152,6 +4152,16 @@
     "schema": "vool.registry.admission.v1",
     "targets": [
      {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
       "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
       "platform": "macos-arm64",
       "version": "0.7.3-beta"
@@ -4170,22 +4180,12 @@
       "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
       "platform": "macos-x86_64",
       "version": "0.7.2-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-arm64",
-      "version": "0.7.1-beta"
-     },
-     {
-      "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-      "platform": "macos-x86_64",
-      "version": "0.7.1-beta"
      }
     ]
    }
   }
  ],
- "epoch": 7,
+ "epoch": 8,
  "marks": {
   "highlighted": [],
   "sequence": 1,
@@ -4208,9 +4208,19 @@
   "pictures": [],
   "reports": []
  },
- "rechecked": "2026-10-22",
+ "rechecked": "2026-10-23",
  "released": [
   {
+   "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+   "platform": "macos-arm64",
+   "version": "0.7.4-beta"
+  },
+  {
+   "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+   "platform": "macos-x86_64",
+   "version": "0.7.4-beta"
+  },
+  {
    "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
    "platform": "macos-arm64",
    "version": "0.7.3-beta"
@@ -4229,23 +4239,23 @@
    "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
    "platform": "macos-x86_64",
    "version": "0.7.2-beta"
-  },
-  {
-   "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-   "platform": "macos-arm64",
-   "version": "0.7.1-beta"
-  },
-  {
-   "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-   "platform": "macos-x86_64",
-   "version": "0.7.1-beta"
   }
  ],
- "releases_checked": "2026-10-22",
+ "releases_checked": "2026-10-23",
  "removed": [],
  "revoked": [],
  "targets": [
   {
+   "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+   "platform": "macos-arm64",
+   "version": "0.7.4-beta"
+  },
+  {
+   "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+   "platform": "macos-x86_64",
+   "version": "0.7.4-beta"
+  },
+  {
    "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
    "platform": "macos-arm64",
    "version": "0.7.3-beta"
@@ -4264,17 +4274,7 @@
    "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
    "platform": "macos-x86_64",
    "version": "0.7.2-beta"
-  },
-  {
-   "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-   "platform": "macos-arm64",
-   "version": "0.7.1-beta"
-  },
-  {
-   "commit": "baf115c251d89be61eb382141d0529a7ee1bbb40",
-   "platform": "macos-x86_64",
-   "version": "0.7.1-beta"
   }
  ],
- "unpublished": false
+ "unpublished": true
 }
