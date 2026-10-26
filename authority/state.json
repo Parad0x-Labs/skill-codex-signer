@@ -8931,6 +8931,93 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "edkkTUoF42PKWD7l8hrRMy0CCsIq8P+0Dz+NFiZRzoNjlYVBaW7WGsCe0j+Xozns9hvcnZw1sw9KY19akLp2Bg=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 103844,
+    "artifact_sha256": "036d9830f0d691f16a09845422479cd4eb6b95fd38e855f13d010a9496580a2a",
+    "dependencies": {},
+    "evidence_sha256": "a764464139ddb010a858dbfa27af4ca7522f77f43e11edbb33ab60bb7351b5cc",
+    "expires": 1795634663,
+    "issued_at": 1793046263,
+    "metadata": {
+     "banner": {
+      "path": "assets/banner.png",
+      "sha256": "c8d30870c753ab89753e81a1a52c0a0bcfd5e2f16cb80ff5c6aee5cabb47cf7c"
+     },
+     "category": "research-learning",
+     "icon": {
+      "path": "assets/icon.png",
+      "sha256": "f98df4b8d48ab14238b09afb86b238974b5418a54c169db277210ec37ce1ba89"
+     },
+     "id": "vool-team/claim-check",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "release_notes": "Adds an icon and a banner. The instructions are unchanged.",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "49e536c87f28f1594551f55d9fdef445"
+     },
+     "subcategory": "fact-checking",
+     "summary": "Break a claim or article you paste into checkable statements and what evidence would settle each.",
+     "title": "Claim check",
+     "version": "1.0.2"
+    },
+    "native_digest": "12b6cc0140666ca44f730674b2d4bca1bd361ea364ff809d5929162ff12585ee",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-cf9299bc526c318291fdfae4",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "036d9830f0d691f16a09845422479cd4eb6b95fd38e855f13d010a9496580a2a",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 15,
