@@ -9197,6 +9197,93 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "UOf4mYOeTOCSPXsKGhtWJwrXWMyI5NQmFk7pvBOL9/UVtCvOi9/i36Lmn7OGE0BxC9hHI6GvH06hQJIhBSvUAA=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 74731,
+    "artifact_sha256": "6ed2d5bcbc25cc8217ba8ac79e2abfcec6e4d4acdf4777575eba3c007af906a2",
+    "dependencies": {},
+    "evidence_sha256": "ee758773b85ab212ad0a73b66ab2227a17fb744862edfc8b9ae5df2dd6402f66",
+    "expires": 1795634673,
+    "issued_at": 1793046273,
+    "metadata": {
+     "banner": {
+      "path": "assets/banner.png",
+      "sha256": "a45d5ad31ec548ab87a471a221cd2b3a1e720228c9fec1abbf9c66cdab802616"
+     },
+     "category": "personal-home",
+     "icon": {
+      "path": "assets/icon.png",
+      "sha256": "a3f5713ef82b38299282e39f6abfda584f4231a493e3c5d39dad3194aef3a763"
+     },
+     "id": "vool-team/trip-packing-list",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "release_notes": "Adds an icon and a banner. The instructions are unchanged.",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "71ddeb07c16edb9d8ce58d32a6702e1a"
+     },
+     "subcategory": "travel",
+     "summary": "Make a packing list for your trip from where, how long, weather and plans you give.",
+     "title": "Trip packing list",
+     "version": "1.0.2"
+    },
+    "native_digest": "d6bff0993d051e31238bc494aa2b3be7e9296121cdf0e6a40e0efc322eca2060",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-c7087a3edac9f6407772a429",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "6ed2d5bcbc25cc8217ba8ac79e2abfcec6e4d4acdf4777575eba3c007af906a2",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 15,
