@@ -9824,7 +9824,7 @@
   "counts": {
    "comments": 0,
    "paused": 0,
-   "pictures": 16,
+   "pictures": 12,
    "reports": 0
   },
   "pictures": [
@@ -9843,20 +9843,6 @@
     "version": "1.0.1"
    },
    {
-    "artifact_sha256": "ed85a3a626fc26eb384d182aad7838f87f24fd5bb7693533bf62c0e2e5ad29cf",
-    "id": "vool-team/chart-picker",
-    "kind": "icon",
-    "sha256": "6f88b1255e8492a97d9aa6da330ab64ee81bc1b523dc80d1163a8e76694802e3",
-    "version": "1.0.2"
-   },
-   {
-    "artifact_sha256": "ed85a3a626fc26eb384d182aad7838f87f24fd5bb7693533bf62c0e2e5ad29cf",
-    "id": "vool-team/chart-picker",
-    "kind": "banner",
-    "sha256": "1f8f51d29612dcbe08392e33a4460894b890cdadb998d2e805a04f17a91e09f0",
-    "version": "1.0.2"
-   },
-   {
     "artifact_sha256": "ce8cc405663989bc0c34818351f44d033a4d333a8afefbad0b146f3e518e5cc0",
     "id": "vool-team/claim-check",
     "kind": "icon",
@@ -9869,20 +9855,6 @@
     "kind": "banner",
     "sha256": "44358a5d8c3bb68e4e51f187b6c2830f102a80204dcdbe54a1916ea771200696",
     "version": "1.0.1"
-   },
-   {
-    "artifact_sha256": "036d9830f0d691f16a09845422479cd4eb6b95fd38e855f13d010a9496580a2a",
-    "id": "vool-team/claim-check",
-    "kind": "icon",
-    "sha256": "f98df4b8d48ab14238b09afb86b238974b5418a54c169db277210ec37ce1ba89",
-    "version": "1.0.2"
-   },
-   {
-    "artifact_sha256": "036d9830f0d691f16a09845422479cd4eb6b95fd38e855f13d010a9496580a2a",
-    "id": "vool-team/claim-check",
-    "kind": "banner",
-    "sha256": "c8d30870c753ab89753e81a1a52c0a0bcfd5e2f16cb80ff5c6aee5cabb47cf7c",
-    "version": "1.0.2"
    },
    {
     "artifact_sha256": "30a6f2d627de5e0d73b37c5109cbeb3ff36c68e544e134f39e07b6d31db22e5c",
