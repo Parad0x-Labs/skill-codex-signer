@@ -8756,7 +8756,7 @@
   "pictures": [],
   "reports": []
  },
- "rechecked": "2026-10-25",
+ "rechecked": "2026-10-26",
  "released": [
   {
    "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
@@ -8789,7 +8789,7 @@
    "version": "0.7.2-beta"
   }
  ],
- "releases_checked": "2026-10-25",
+ "releases_checked": "2026-10-26",
  "removed": [],
  "revoked": [],
  "targets": [
