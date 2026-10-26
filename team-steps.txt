@@ -147,3 +147,9 @@ picture vool-team/trip-packing-list a3f5713ef82b38299282e39f6abfda584f4231a493e3
 picture vool-team/trip-packing-list a45d5ad31ec548ab87a471a221cd2b3a1e720228c9fec1abbf9c66cdab802616
 picture vool-team/weekly-plan ec6dac23cb562753d6612ff494602acdb01ffad9fffe02c12099d525d210354e
 picture vool-team/weekly-plan 697266444abf2cd3d060927e09fa0fa5a4ce6a19e3a9198520d0f15dea35d2b3
+
+# Pictures for chart-picker and claim-check (version 1.0.2), approved by sls 2026-10-26
+picture vool-team/chart-picker 6f88b1255e8492a97d9aa6da330ab64ee81bc1b523dc80d1163a8e76694802e3
+picture vool-team/chart-picker 1f8f51d29612dcbe08392e33a4460894b890cdadb998d2e805a04f17a91e09f0
+picture vool-team/claim-check f98df4b8d48ab14238b09afb86b238974b5418a54c169db277210ec37ce1ba89
+picture vool-team/claim-check c8d30870c753ab89753e81a1a52c0a0bcfd5e2f16cb80ff5c6aee5cabb47cf7c
