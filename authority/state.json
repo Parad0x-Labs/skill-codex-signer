@@ -8402,6 +8402,93 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "LYKqg66AuVabYMLbxCLhwyau90AWF49vtvwhik4wfHXwFKbCxNCcBxa1lPVPKAq4kq7QJynvCpKoPpXLHmRRCg=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 520034,
+    "artifact_sha256": "ce8cc405663989bc0c34818351f44d033a4d333a8afefbad0b146f3e518e5cc0",
+    "dependencies": {},
+    "evidence_sha256": "435c7b55c7a7e4fb4c31b711b2510de05579e9c5e32f57d67d256fd0e6f7a3e5",
+    "expires": 1795634076,
+    "issued_at": 1793045676,
+    "metadata": {
+     "banner": {
+      "path": "assets/banner.png",
+      "sha256": "44358a5d8c3bb68e4e51f187b6c2830f102a80204dcdbe54a1916ea771200696"
+     },
+     "category": "research-learning",
+     "icon": {
+      "path": "assets/icon.png",
+      "sha256": "a3f7f3f231a6aca46546aa550e9641a531e4a71d2fbc61f49600148e13f10b97"
+     },
+     "id": "vool-team/claim-check",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "release_notes": "Adds an icon and a banner.",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "49e536c87f28f1594551f55d9fdef445"
+     },
+     "subcategory": "fact-checking",
+     "summary": "Break a claim or article you paste into checkable statements and what evidence would settle each.",
+     "title": "Claim check",
+     "version": "1.0.1"
+    },
+    "native_digest": "55af34e7e25c813e4b778d5c51dc40d74ad8448fb048fefa4151b42bd040bd85",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-cf9299bc526c318291fdfae4",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "ce8cc405663989bc0c34818351f44d033a4d333a8afefbad0b146f3e518e5cc0",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 14,
