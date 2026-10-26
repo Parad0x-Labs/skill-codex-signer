@@ -8581,6 +8581,93 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "xuFwyx6qBnQHSiUNA99yq8Zgo/xBItjOtD030MKyQcYqygYLkdPjJiXdxLOY5gFFKvRGGf58wEKrHHR/gFWKCA=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 714484,
+    "artifact_sha256": "714bc85b8fb27aa540c90db759e2ff3078388187ab28dc5375580eff7721abbc",
+    "dependencies": {},
+    "evidence_sha256": "de6f3439b1546801b2d4d83d4024cf38c34c634e15117a52640ccdd535cd2f51",
+    "expires": 1795634084,
+    "issued_at": 1793045684,
+    "metadata": {
+     "banner": {
+      "path": "assets/banner.png",
+      "sha256": "a007c6ad38a22dd7cd636852b9774ec3b93514397618fc5b168c737daa61c836"
+     },
+     "category": "writing",
+     "icon": {
+      "path": "assets/icon.png",
+      "sha256": "ec92902dc7380d0d0dc700e6186d8c39d22ede5c1d2f1eb5280d792e8aae57d9"
+     },
+     "id": "vool-team/translate-keep-tone",
+     "kind": "skill",
+     "languages": [
+      "any"
+     ],
+     "license": "MIT",
+     "release_notes": "Adds an icon and a banner.",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "cc8bfb21c62a9eca3da205bac333f516"
+     },
+     "subcategory": "translation",
+     "summary": "Translate your text into another language while keeping its tone and meaning.",
+     "title": "Translate, keep the tone",
+     "version": "1.0.1"
+    },
+    "native_digest": "46b28478e1496d346575b7460701f048ed88296d27070ad5a76fa6877dc94753",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-3794a07366a9e0ec806e6029",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "714bc85b8fb27aa540c90db759e2ff3078388187ab28dc5375580eff7721abbc",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     }
+    ]
+   }
   }
  ],
  "epoch": 14,
