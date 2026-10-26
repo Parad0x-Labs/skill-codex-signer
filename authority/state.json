@@ -8755,9 +8755,96 @@
      }
     ]
    }
+  },
+  {
+   "signatures": [
+    {
+     "keyid": "684fbc12dbe9365b91bce2db00c9ba1bba8ad98f0dbfbdebd20b2b1da17763f5",
+     "sig": "dO7iBhK/GGzfj2VDcSIbaICvZNMLR5aa9kpA/DxK8ftGC8JDcieDloR1n7kH0G3v+2md1+rz+cIIXH9DRBCZBg=="
+    }
+   ],
+   "signed": {
+    "artifact_length": 518682,
+    "artifact_sha256": "319c21249cd4b5bb11df461952e9118b192ff1e7ebbce82f1044323a3825c760",
+    "dependencies": {},
+    "evidence_sha256": "c17033b9a6ec374bcf101c6dc5510a65f216fec198bf8d49b7a73053ef651e07",
+    "expires": 1795634093,
+    "issued_at": 1793045693,
+    "metadata": {
+     "banner": {
+      "path": "assets/banner.png",
+      "sha256": "3de230f22771f0d4fd2268a523ca46934c12e8bb6238de843e2ec5b5204a78e7"
+     },
+     "category": "productivity",
+     "icon": {
+      "path": "assets/icon.png",
+      "sha256": "fc125a15513fcbf0fedb015a449aa3aa369a4893715dc681f2c67ec8feefe20c"
+     },
+     "id": "vool-team/weekly-plan",
+     "kind": "skill",
+     "languages": [
+      "en"
+     ],
+     "license": "MIT",
+     "release_notes": "Adds an icon and a banner.",
+     "source": {
+      "namespace": "vool-team",
+      "upload_id": "23142e5b4f58167ae71a9b0b2ca53f9f"
+     },
+     "subcategory": "planning-tasks",
+     "summary": "Turn your task list and fixed commitments into a realistic plan for the week.",
+     "title": "Weekly plan",
+     "version": "1.0.1"
+    },
+    "native_digest": "f6c45ec6b350811aa538e6d0ec308b30fb3dad11a4b0fd2084afc2ffe78fc160",
+    "native_rule_review": {
+     "conflicts": [],
+     "obeys_native_rules": true,
+     "overlaps": []
+    },
+    "plugin_id": "registry-da63279fa03a4ccecece095e",
+    "policy_sha256": "0ca1097b0040d0855c0bc02675a611d091f5e9b2bd24b8142fd1cf8f130576d1",
+    "publication": {
+     "artifact_sha256": "319c21249cd4b5bb11df461952e9118b192ff1e7ebbce82f1044323a3825c760",
+     "service": "skill-codex"
+    },
+    "schema": "vool.registry.admission.v1",
+    "targets": [
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-arm64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
+      "platform": "macos-x86_64",
+      "version": "0.7.4-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-arm64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "d19ca57c9eadbc75972e34205820c7f0f40f6737",
+      "platform": "macos-x86_64",
+      "version": "0.7.3-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-arm64",
+      "version": "0.7.2-beta"
+     },
+     {
+      "commit": "29945fd422957c8eaba9b8fa68a860928b025d7c",
+      "platform": "macos-x86_64",
+      "version": "0.7.2-beta"
+     }
+    ]
+   }
   }
  ],
- "epoch": 14,
+ "epoch": 15,
  "marks": {
   "curation": {
    "approved_pictures": [
