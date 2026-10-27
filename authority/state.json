@@ -9915,7 +9915,7 @@
   ],
   "reports": []
  },
- "rechecked": "2026-10-26",
+ "rechecked": "2026-10-27",
  "released": [
   {
    "commit": "6ed307c54abd644ace7f9dc4958fd7e26120a470",
@@ -9948,7 +9948,7 @@
    "version": "0.7.2-beta"
   }
  ],
- "releases_checked": "2026-10-26",
+ "releases_checked": "2026-10-27",
  "removed": [],
  "revoked": [],
  "targets": [
