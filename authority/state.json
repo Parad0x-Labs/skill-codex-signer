@@ -9373,7 +9373,7 @@
    }
   }
  ],
- "epoch": 31,
+ "epoch": 32,
  "marks": {
   "curation": {
    "approved_pictures": [
@@ -9915,7 +9915,7 @@
   ],
   "reports": []
  },
- "rechecked": "2026-11-11",
+ "rechecked": "2026-11-12",
  "released": [
   {
    "commit": "8af687ca5ce62882dbca48c8a26ba0d596ace5f1",
@@ -9948,7 +9948,7 @@
    "version": "0.7.5-beta"
   }
  ],
- "releases_checked": "2026-11-11",
+ "releases_checked": "2026-11-12",
  "removed": [],
  "revoked": [],
  "targets": [
